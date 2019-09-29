@@ -1,0 +1,24 @@
+{
+  "type": "postgres",
+  "host": "postgres",
+  "port": "5432",
+  "username": "admin",
+  "password": "rodamais",
+  "database": "rodamais",
+  "entities": [
+    "dist/src/**/*.entity.js"
+  ],
+  "migrations": [
+    "migration/*{.ts,.js}"
+  ],
+  "cli": {
+    "migrationsDir": "migration"
+  },
+  "synchronize": false,
+  "logging": [
+    "error",
+    "warn",
+    "log"
+  ],
+  "logger": "file"
+}

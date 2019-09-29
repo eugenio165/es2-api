@@ -1,0 +1,54 @@
+# Use postgres/example user/password credentials
+version: '3.1'
+
+services:
+
+  db:
+    container_name: postgres
+    image: postgres
+    #restart: always
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: ${TYPEORM_USERNAME}
+      POSTGRES_PASSWORD: ${TYPEORM_PASSWORD}
+      POSTGRES_DB: ${TYPEORM_DATABASE}
+    volumes:
+     - ${DATA_SAVE_PATH}/postgres:/var/lib/postgres
+    networks:
+      - db-network
+
+  pgadmin:
+    container_name: ${PROJECT_NAME}_pgadmin
+    image: dpage/pgadmin4
+    #restart: always
+    links:
+      - db
+    depends_on:
+      - db
+    ports:
+      - 8585:80
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PG_EMAIL}
+      PGADMIN_DEFAULT_PASSWORD: ${PG_PASS}
+    networks:
+     - db-network
+
+  nodejs:
+    container_name: ${PROJECT_NAME}_nodejs
+    depends_on:
+     - db
+    build: 
+      context: ./docker/nodejs
+      args:
+        - ENVIRONMENT=${ENVIRONMENT}
+    volumes:
+      - ./:/var/www
+    ports:
+      - 3000:3000
+    networks:
+     - db-network
+
+networks: 
+  db-network:
+    driver: bridge
