@@ -1,6 +1,5 @@
-import { UserRole } from '../user.entity';
 import { IsEmail, IsString, IsNotEmpty } from 'class-validator';
-import { AdvancedConsoleLogger } from 'typeorm';
+import { ApiModelProperty } from '@nestjs/swagger';
 
 export interface IChangePasswordCmd {
   email: string;
@@ -18,13 +17,16 @@ export class ChangePasswordCmd {
   }
   @IsEmail()
   @IsNotEmpty()
+  @ApiModelProperty()
   email: string;
 
   @IsString()
   @IsNotEmpty()
+  @ApiModelProperty()
   oldPassword: string;
 
   @IsString()
   @IsNotEmpty()
+  @ApiModelProperty()
   newPassword: string;
 }
