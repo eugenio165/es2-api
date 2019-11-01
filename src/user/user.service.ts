@@ -24,7 +24,7 @@ export class UserService {
       throw new InternalServerErrorException(`An error occured during password comparison: ${error.toString()}`);
     }
     if (isPasswordValid === false) {
-      throw new UnauthorizedException(`Invalid password for user ${user.firstname} ${user.lastname} (${user.email}).`);
+      throw new UnauthorizedException(`Senha errada!`);
     }
 
     return true;
@@ -32,6 +32,9 @@ export class UserService {
 
   public async create(user: CreateUserDto): Promise<User> {
     user.password = await bcrypt.hash('123', 10);
+    const isRegistered = await this.userRepository.findOne(user);
+    if (isRegistered)
+      throw new BadRequestException('Já existe usuário com esse e-mail!');
     try {
       return await this.userRepository.save(user);
     } catch (error) {

@@ -9,4 +9,6 @@ export interface IUser {
   readonly status?: UserStatus;
   readonly role?: UserRole;
   readonly createdAt?: string;
+  readonly facebookId?: string;
+  readonly googleId?: string;
 }

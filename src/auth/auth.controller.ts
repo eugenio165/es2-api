@@ -1,3 +1,5 @@
+import { GoogleLoginDTO } from './dto/google-login.dto';
+import { FacebookLoginDTO } from './dto/facebook-login.dto';
 import { ChangePasswordCmd } from './../user/cmd/change-password.cmd';
 import { CreateUserDto } from './../user/dto/create-user.dto';
 
@@ -13,7 +15,25 @@ import { TokenDto } from './dto/token.dto';
 @ApiBearerAuth()
 @Controller('auth')
 export class AuthController {
-  constructor(private readonly authService: AuthService) {}
+  constructor(
+    private readonly authService: AuthService,
+  ) {}
+
+  @Post('facebook-login')
+  @ApiOperation({ title: 'Sign-up', description: 'Register user. Returns a valid JWT.' })
+  @ApiResponse({ description: 'Success!', status: HttpStatus.OK, type: TokenDto })
+  @ApiResponse({ description: 'Bad request.', status: HttpStatus.BAD_REQUEST })
+  async loginFacebook(@Body() loginFacebookInput: FacebookLoginDTO) {
+    return await this.authService.loginFacebook(loginFacebookInput);
+  }
+
+  @Post('google-login')
+  @ApiOperation({ title: 'Sign-up', description: 'Register user. Returns a valid JWT.' })
+  @ApiResponse({ description: 'Success!', status: HttpStatus.OK, type: TokenDto })
+  @ApiResponse({ description: 'Bad request.', status: HttpStatus.BAD_REQUEST })
+  async loginGoogle(@Body() loginGoogleInput: GoogleLoginDTO) {
+    return await this.authService.loginGoogle(loginGoogleInput);
+  }
 
   @Post('signup')
   @ApiOperation({ title: 'Sign-up', description: 'Register user. Returns a valid JWT.' })

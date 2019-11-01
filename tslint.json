@@ -14,7 +14,8 @@
     "interface-name": [false],
     "arrow-parens": false,
     "object-literal-sort-keys": false,
-    "no-empty": false
+    "no-empty": false,
+    "curly": false
   },
   "rulesDirectory": []
 }

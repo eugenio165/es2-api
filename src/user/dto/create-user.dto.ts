@@ -11,6 +11,8 @@ export class CreateUserDto implements IUser {
       this.lastname = data.lastname;
       this.password = data.password;
       this.role = data.role;
+      this.facebookId = data.facebookId;
+      this.googleId = data.googleId;
     }
   }
   @IsEmail()
@@ -32,4 +34,10 @@ export class CreateUserDto implements IUser {
   @IsNotEmpty()
   @ApiModelProperty()
   lastname: string;
+
+  @ApiModelProperty()
+  facebookId: string;
+
+  @ApiModelProperty()
+  googleId: string;
 }

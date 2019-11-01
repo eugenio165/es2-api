@@ -25,6 +25,8 @@ export class User implements IUser {
       this.email = data.email;
       this.password = data.password;
       this.role = data.role;
+      this.facebookId = data.facebookId;
+      this.googleId = data.googleId;
     }
   }
 
@@ -68,4 +70,16 @@ export class User implements IUser {
   @CreateDateColumn()
   @ApiModelProperty()
   public createdAt: string;
+
+  @Column({
+    unique: true,
+    nullable: true,
+  })
+  facebookId: string;
+
+  @Column({
+    unique: true,
+    nullable: true,
+  })
+  googleId: string;
 }
