@@ -24,7 +24,7 @@ export class UserService {
       throw new InternalServerErrorException(`An error occured during password comparison: ${error.toString()}`);
     }
     if (isPasswordValid === false) {
-      throw new UnauthorizedException(`Senha errada!`);
+      throw new BadRequestException(`Você errou a senha, amigo!`);
     }
 
     return true;
@@ -51,9 +51,6 @@ export class UserService {
     try {
       user = await this.userRepository.findOne(params);
     } catch (error) { }
-    if (!user) {
-      throw new NotFoundException(`User with ${JSON.stringify(params)} does not exist`);
-    }
     return user;
   }
 
