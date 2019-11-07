@@ -14,6 +14,6 @@ import { JwtMiddleware } from '../auth/middlewares/jwt.middleware';
 })
 export class UserModule implements NestModule {
   public configure(consumer: MiddlewareConsumer) {
-    consumer.apply(JwtMiddleware).forRoutes('/users', '/users/:id');
+    // consumer.apply(JwtMiddleware).forRoutes('/users', '/users/:id');
   }
 }

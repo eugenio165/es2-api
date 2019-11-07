@@ -21,12 +21,10 @@ export class AuthService {
   }
 
   public async changePassword(cmd: ChangePasswordCmd): Promise<User> {
-    let oldUser;
-    try {
-      oldUser = await this.userService.findOne({ email: cmd.email });
-    } catch (error) {
+    const oldUser = await this.userService.findOne({ email: cmd.email });
+    if (!oldUser)
       throw new NotFoundException(`No user was found for email: ${cmd.email}.`);
-    }
+
     return this.userService.update(
       oldUser.id,
       new User({ ...oldUser, password: cmd.oldPassword }),
@@ -102,11 +100,9 @@ export class AuthService {
 
   public async login(loginInfo: AuthLoginCmd) {
     const user = await this.userService.findOne({ email: loginInfo.email });
-    try {
-      await this.userService.testMatchingPasswords(user, loginInfo.password);
-    } catch (e) {
-      throw e;
-    }
+    if (!user)
+      throw new NotFoundException('Não existe usuário com este e-mail!');
+    await this.userService.testMatchingPasswords(user, loginInfo.password);
     return await this.createToken(user);
   }
 
@@ -116,6 +112,7 @@ export class AuthService {
     const userPOJO = JSON.parse(JSON.stringify(user));
     const accessToken = jwt.sign(userPOJO, secretOrKey);
     return new TokenDto({
+      user,
       accessToken,
     });
   }

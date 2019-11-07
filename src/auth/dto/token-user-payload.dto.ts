@@ -5,14 +5,14 @@ import { IUser } from '../../user/user.interface';
 
 export class TokenUserPayload {
   constructor(data: IUser) {
-    this.sub = data.id;
+    this.id = data.id;
     this.email = data.email;
     this.firstname = data.firstname;
     this.lastname = data.lastname;
     this.role = data.role;
     this.status = data.status;
   }
-  @ApiModelProperty() sub: string;
+  @ApiModelProperty() id: string;
   @ApiModelProperty() email: string;
   @ApiModelProperty() firstname: string;
   @ApiModelProperty() lastname: string;
