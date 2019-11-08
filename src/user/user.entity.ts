@@ -30,9 +30,9 @@ export class User implements IUser {
     }
   }
 
-  @PrimaryGeneratedColumn('uuid')
+  @PrimaryGeneratedColumn()
   @ApiModelProperty()
-  public id: string;
+  public id: number;
 
   @Column()
   @IsString()

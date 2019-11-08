@@ -3,9 +3,9 @@ import { ApiModelProperty } from '@nestjs/swagger';
 
 @Entity('postos')
 export class Posto {
-    @PrimaryGeneratedColumn('uuid')
+    @PrimaryGeneratedColumn()
     @ApiModelProperty()
-    id: string;
+    id: number;
 
     @Column({ nullable: false})
     @ApiModelProperty()

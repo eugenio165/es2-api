@@ -27,7 +27,7 @@ export class UserController {
   @ApiResponse({ status: HttpStatus.NOT_FOUND, description: 'User not found.' })
   @ApiResponse({ status: HttpStatus.UNAUTHORIZED, description: 'Unauthorized.' })
   @ApiOperation({ title: 'Get user', description: 'Get user matching route id.' })
-  async findOne(@Param('id') id: string): Promise<GetUserDto> {
+  async findOne(@Param('id') id: number): Promise<GetUserDto> {
     const user = await this.userService.findOne({ id });
     return new GetUserDto(user);
   }
@@ -38,7 +38,7 @@ export class UserController {
   @ApiResponse({ status: HttpStatus.UNAUTHORIZED, description: 'Unauthorized.' })
   @ApiResponse({ status: HttpStatus.INTERNAL_SERVER_ERROR, description: 'Internal server error.' })
   @ApiOperation({ title: 'Update user', description: 'Update user matching route id.' })
-  async updateOne(@Param('id') id: string, @Body() user: UpdateUserCmd): Promise<UpdateUserDto> {
+  async updateOne(@Param('id') id: number, @Body() user: UpdateUserCmd): Promise<UpdateUserDto> {
     const updatedUser = await this.userService.update(id, new User(user));
     return new UpdateUserDto(updatedUser);
   }
@@ -48,7 +48,7 @@ export class UserController {
   @ApiResponse({ status: HttpStatus.NOT_FOUND, description: 'User not found.' })
   @ApiResponse({ status: HttpStatus.UNAUTHORIZED, description: 'Unauthorized.' })
   @ApiOperation({ title: 'Delete user', description: 'Delete user matching route id.' })
-  async deleteOne(@Param('id') id: string): Promise<DeleteUserDto> {
+  async deleteOne(@Param('id') id: number): Promise<DeleteUserDto> {
     const deletedUser = await this.userService.delete({ id });
     return new DeleteUserDto(deletedUser);
   }
