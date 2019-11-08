@@ -9,7 +9,7 @@ export class DeleteUserDto {
     this.lastname = data.lastname;
     this.role = data.role;
   }
-  id: string;
+  id: number;
   email: string;
   firstname: string;
   lastname: string;

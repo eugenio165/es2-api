@@ -13,7 +13,7 @@ export class GetUserDto implements IUser {
     }
   }
   @ApiModelPropertyOptional()
-  id: string;
+  id: number;
 
   @ApiModelPropertyOptional()
   email: string;

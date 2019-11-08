@@ -11,7 +11,7 @@ export class UpdateUserDto {
       this.role = data.role;
     }
   }
-  id: string;
+  id: number;
   email: string;
   firstname: string;
   lastname: string;

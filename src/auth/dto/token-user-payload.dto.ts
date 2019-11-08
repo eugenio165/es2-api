@@ -12,7 +12,7 @@ export class TokenUserPayload {
     this.role = data.role;
     this.status = data.status;
   }
-  @ApiModelProperty() id: string;
+  @ApiModelProperty() id: number;
   @ApiModelProperty() email: string;
   @ApiModelProperty() firstname: string;
   @ApiModelProperty() lastname: string;

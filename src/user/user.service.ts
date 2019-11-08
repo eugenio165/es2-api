@@ -54,7 +54,7 @@ export class UserService {
     return user;
   }
 
-  public async update(id: string, payload: User, password?: string): Promise<User> {
+  public async update(id: number, payload: User, password?: string): Promise<User> {
     const user = await this.findOne({ id });
     let encryptedPassword: string;
     if (!!password) {
