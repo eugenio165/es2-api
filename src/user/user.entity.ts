@@ -59,7 +59,7 @@ export class User implements IUser {
   @ApiModelProperty()
   public password: string;
 
-  @Column({ default: UserStatus.NORMAL })
+  @Column({ default: UserStatus.NORMAL, nullable: true })
   @ApiModelProperty({ enum: UserStatus, default: UserStatus.NORMAL })
   public status: UserStatus;
 

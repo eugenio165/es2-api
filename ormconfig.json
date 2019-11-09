@@ -6,7 +6,8 @@
   "password": "rodamais",
   "database": "rodamais",
   "entities": [
-    "dist/src/**/*.entity.js"
+    "dist/src/**/*.entity.js",
+    "src/**/*.entity.ts"
   ],
   "migrations": [
     "migration/*{.ts,.js}"
