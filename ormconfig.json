@@ -6,10 +6,10 @@
   "password": "rodamais",
   "database": "rodamais",
   "entities": [
-    "dist/**/*.entity.js"
+    "dist/src/**/*.entity.js"
   ],
   "migrations": [
-    "migration/*.js"
+    "dist/migration/*.js"
   ],
   "cli": {
     "migrationsDir": "migration"
