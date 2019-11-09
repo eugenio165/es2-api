@@ -1,6 +1,7 @@
 import { Posto } from './../posto/posto.entity';
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne } from 'typeorm';
 import { ApiModelProperty } from '@nestjs/swagger';
+import * as moment from 'moment';
 
 @Entity('combustiveis')
 export class Combustivel {
@@ -12,15 +13,15 @@ export class Combustivel {
     @ApiModelProperty()
     nome: string;
 
-    @Column()
+    @Column({ type: 'decimal', precision: 4, scale: 2 })
     @ApiModelProperty()
     preco: number;
 
-    @Column({ nullable: true })
+    @Column({ type: 'date', nullable: true })
     @ApiModelProperty()
     data: Date;
 
-    @ManyToOne(type => Posto, posto => posto.combustiveis)
+    @ManyToOne(type => Posto, posto => posto.combustiveis )
     @ApiModelProperty()
     posto: Posto;
 }
