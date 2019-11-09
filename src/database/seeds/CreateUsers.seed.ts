@@ -5,6 +5,6 @@ import { Connection } from 'typeorm';
 export default class CreateUsers implements Seeder {
     public async run(factory: Factory, connection: Connection): Promise<any> {
         await factory(User)({ usuarioPadrao: true }).seed();
-        await factory(User)().seedMany(100);
+        await factory(User)({ usuarioPadrao: false }).seedMany(100);
     }
 }
