@@ -1,6 +1,7 @@
 import { Combustivel } from '../combustivel/combustivel.entity';
-import { Entity, PrimaryGeneratedColumn, Column, OneToMany } from 'typeorm';
+import { Entity, PrimaryGeneratedColumn, Column, OneToMany, Index } from 'typeorm';
 import { ApiModelProperty } from '@nestjs/swagger';
+import { Geography } from 'geojson';
 
 @Entity('postos')
 export class Posto {
@@ -8,13 +9,21 @@ export class Posto {
     @ApiModelProperty()
     id: number;
 
-    @Column({ nullable: false})
+    @Column()
     @ApiModelProperty()
     nome: string;
 
     @Column()
     @ApiModelProperty()
     endereco: string;
+
+    @Column('geography', {
+        spatialFeatureType: 'Point',
+        srid: 4326,
+        nullable: true
+    })
+    @Index({ spatial: true })
+    geo_ponto: Geography;
 
     @Column()
     @ApiModelProperty()
