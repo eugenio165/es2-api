@@ -40,6 +40,7 @@
     "dotenv": "^8.1.0",
     "faker": "^4.1.0",
     "generate-password": "^1.4.2",
+    "geojson": "^0.5.0",
     "moment": "^2.24.0",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
@@ -50,7 +51,8 @@
     "rxjs": "^6.5.3",
     "swagger-ui-express": "^4.1.1",
     "typeorm": "^0.2.19",
-    "typeorm-seeding": "^1.2.0"
+    "typeorm-seeding": "^1.2.0",
+    "wkx": "^0.4.8"
   },
   "devDependencies": {
     "@nestjs/cli": "^6.8.1",
