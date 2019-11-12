@@ -22,4 +22,10 @@ export class PostoController implements CrudController<Posto> {
         const postos = await this.service.getPostosNear(params.latitude, params.longitude);
         return postos;
     }
+
+    @Get('treatment')
+    async treatDATA() {
+        await this.service.treatData();
+        return 'Succes!';
+    }
 }

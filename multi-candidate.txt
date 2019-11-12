@@ -1,0 +1,1576 @@
+1002:  Posto Visão -- Posto de Gasolin Nova Ponte --
+1006:  Auto Posto Bandeira 3 -- Posto de gasolina Brmania --
+1007:  Posto Ipiranga - Santa Rita -- Posto Pianowski --
+1005:  Posto Ipiranga -- POSTO VILLA MONÇÕES --
+1010:  Posto Espaço Botânico Ltda -- Posto Shell - Posto Espaco Botanico Ltda --
+1011:  Pro-GNV Convertedora de Gás -- Posto Ipiranga --
+1024:  Sobral e Palácio Posto Desembargador Moreira -- Posto Cauípe | Shell --
+1024:  Sobral e Palácio Posto Desembargador Moreira -- Posto Cauípe | Shell --
+1024:  Sobral e Palácio Posto Desembargador Moreira -- Posto Cauípe | Shell --
+1027:  Auto Posto Samira -- Posto Santa Rosa --
+1029:  boa sorte comercio de gás -- Posto Petrobras --
+1030:  Big Petro -- Centro Automotivo Piraporinha --
+1056:  R. S. Comércio de Derivados de Petroleo -- Distribuidora São Francisco --
+1068:  Posto Cavalhada -- Posto Ipiranga --
+1039:  Posto São João II -- Posto Jr l --
+1128:  Posto Capitão -- Posto ABN Ltda --
+116:  Auto Posto Joiris -- Auto Posto Barretos Ltda --
+1151:  Av. Circular, 1148 - St. Pedro Ludovico -- R. L-1 - Vila Redencao --
+1152:  DMD Circular Gás -- Shell --
+1183:  Posto Petrobras -- Posto Petrobras --
+1156:  Av. Clara Lanzi Bueno - Jardim Santo Andre -- R. Lindóia --
+1065:  Posto Nonoai - Rótula Cavalhada -- Posto Megapetro --
+1169:  Av. Coletora A - Marcos Freire I -- João Alves, 1 --
+1185:  Posto Vip's -- Posto Extra - Maceio --
+1138:  R S Comercial de Combustíveis -- Loja Shell Select - POSTO SHELL - MALAGUETA LOJA DE CONV LTDA EPP --
+1107:  G Auto Posto Ltda. -- Posto Ipiranga --
+1098:  Posto Shell - Argetax Admin E Par Em Emp Com Ltda -- Posto Ipiranga --
+1105:  Av. Cel. Veremundo Soares, 1640 -- BR-232 --
+1100:  Auto Posto Rei do Tatuapé -- Esquina Com Antonio De Barros --
+113:  Auto Posto Santa Isabel -- Auto Posto Votosete BR --
+1145:  CDM Arcom Sumare-SP -- Posto Ray --
+1101:  Auto Posto Muffato - Av. Celso Garcia (bandeira Herrara) -- Auto Posto Avenida --
+1150:  Posto Ipiranga -- Ampm --
+1140:  Posto Petrobras -- Posto Bel - Grupo Rubens Rosa --
+1148:  Posto BR II -- Posto de Gasolina Imperador --
+1153:  Posto Xodó -- Posto Ipiranga --
+119:  Auto Posto e Conveniência Ágape - Matriz -- Auto Posto e Conveniência Vila Baroni --
+1109:  Posto Petrobras -- Posto Petrobras --
+1213:  Auto Posto Central -- Lubrificantes Pioneiro --
+1204:  RIBEIRO REV DE COMB LTDA -- Shell --
+1203:  Posto Veneza -- Posto Passira --
+1177:  Posto Ipiranga -- Posto Milani --
+1218:  Posto Shell - M Martinez Combustiveis -- Posto Ale --
+1220:  Posto Ipiranga -- Am Pm --
+1230:  Posto ATEM -- Posto Shell - Posto 3000 --
+1248:  Posto BR -- Posto Figueira --
+1251:  Posto Santa Clara -- Posto Raul Lins --
+1252:  Posto Idaza -- Gas Sul ULTRAGAZ --
+1253:  Posto Liberdade -- Posto Petrobras --
+1266:  Posto Shell - Rio Doce Combustiveis Ltda -- Loja Shell Select - POSTO SHELL - RIO DOCE COMBUSTIVEIS LTDA --
+127:  Auto posto Saquarema Ltda (Shell) -- Posto Ipiranga --
+1280:  Posto Meira -- Posto Juá --
+1296:  Posto Shell - Potência 2 -- Auto Posto Intervalo - Rede Box15 --
+1295:  Auto Posto Intervalo - Rede Box15 -- Posto Shell - Potência 2 --
+1313:  POSTO ESTAÇÃO BH - PETROBRAS -- Posto Petrobras --
+1301:  Auto Posto Taurus - Modelo -- Royal FIC - Posto de Combustível --
+130:  BHM Service -- Gil Gás --
+1316:  Posto Petrobras -- Posto Petrobras --
+1322:  Posto Diamante -- Ale --
+1324:  Posto Ipiranga -- Shell --
+1321:  Posto São Bernardo -- Ale --
+1318:  Posto BR Sete Belo -- Posto Mario Werneck --
+1326:  Rede de Postos Opção -- Alex Gás --
+1332:  Posto Shell - Vinhote & Albarado Ltda Me -- Auto Posto Esperança --
+1331:  Posto Do Alemão -- Posto Catarina II --
+131:  Posto Petrobras -- Comercial de Petroleo Peixoto de Melo --
+1338:  Posto Atlântico - SP -- Posto Petrobras --
+1343:  Posto Petrobras -- Auto Posto Xingu --
+1341:  Avenida da Amizade Sumaré Posto de Serviços -- Auto Posto Shankar --
+1354:  CATAVENTO DERIVADOS DE PETROLEO LTDA -- Posto Auto Rio --
+1344:  Posto Confiança -- Lavagem Do Bigode --
+1361:  A. M. Aires - Petroleo -- Posto Ipiranga - A. M. Aires Petróleo --
+1360:  Av. Daniel de la Touche, 01 - Cohajap -- R. D Cohajoli - Vila Vicente Fialho --
+1367:  Auto Posto Andorinhas -- Posto Ipiranga --
+1371:  Posto Shell - Posto Atlantico Ltda -- Loja Shell Select - POSTO SHELL - POSTO ATLANTICO LTDA --
+1372:  Posto Petrobras -- Posto Novo Horizonte --
+1369:  Posto Petrobras -- Posto Itamarati-Star Alliance --
+1365:  Posto Ipiranga - A. M. Aires Petróleo -- A. M. Aires - Petroleo --
+1374:  Shell -- Shell --
+1386:  Posto João Alves -- Comercial de Combustiveis Amigos de Fé --
+1387:  Carrefour Posto Barra -- Posto Shell - CARREFOUR COMERCIO E INDUSTRIA LTDA --
+1409:  Auto Posto Nardobal -- Posto Shell - Auto Posto Aiwa Ltda --
+141:  Posto Ipiranga -- Posto Paulista Brutus Ltda --
+142:  Posto Paulista Brutus Ltda -- Posto Ipiranga - Posto GD --
+1441:  Rede Vida -- Posto de Serviços Vila Rica Ltda. --
+1444:  Posto Petrobras -- BR Petrobras --
+1447:  Posto Shell - Posto Cis Tomba Ltda Epp -- Posto Gasauto --
+1459:  Shell -- Posto Star --
+1450:  BR Mania - Posto Onix -- Auto Posto Ipiranga - Avião --
+144:  Av. Abiurana -- Av. Solimões - Distrito Industrial I --
+1454:  Rede de Postos Nevoeiro Filial - 14 -- Posto Carlão --
+1472:  AUTO POSTO PERO -- Posto São Thome II --
+1476:  Posto Líder 02 -- Posto Petrobras --
+1471:  Posto Ipiranga -- AUTO POSTO PERO --
+1483:  Posto BR -- Posto Shell Franceses --
+1485:  Fé Comércio de Combustiveis e Derivados de Petroleo -- Auto Posto Ali --
+1496:  Posto Salvaterra -- Posto Visão --
+1495:  Posto Visão -- Posto Ipiranga - Juíz de Fora --
+1506:  Shell -- Posto Shell --
+1505:  Posto Petrobras -- Posto Shell - Posto 3000 --
+1514:  Posto Petrobras -- Shell --
+1515:  Ipiranga -- Posto Niquelina --
+1519:  Av. do Contorno -- BR-304 --
+1526:  Auto Posto Comaris -- Posto Petrobras --
+1522:  Auto posto festa -- Gazmin Comercio de Gas --
+1535:  Posto Petrobras -- Posto Mais --
+1532:  Veneza Auto Posto -- Posto Petrobras --
+153:  Posto Auto Center -- Posto Shell - A C Comercio De Combustiveis Ltda --
+1544:  Posto São Mateus III -- Bezerra e Filho Ltda --
+1541:  Auto Posto Universidade - Rede Stella&Almeida -- Posto Universitário de Assis --
+1554:  Posto Itamarati Visão Futuro -- Romano Morgon Zani & Cia --
+1557:  Posto Petrobras -- Posto Shell --
+1556:  Posto Shell -- Posto Extra - Boa Viagem --
+1553:  Auto Posto Santa Maria Ourinhos -- Auto Posto Gigante --
+1498:  Posto Shell - MACHADO R P COMERCIO DE COMB LTDA -- Auto Posto Aeroporto --
+1561:  Auto Posto Dom João VI -- Consigás --
+1565:  Posto São Paulo Avenida -- Santos & Espírito Santo Ltda --
+1567:  Auto Posto Florais -- Auto Posto Concórdia --
+156:  Posto HS -- Posto Porangatu --
+157:  Posto Porangatu -- Posto HS --
+1575:  Posto BR -- Posto Ipiranga --
+1579:  Nova Show Gás -- Posto Shell - Posto Uniao Ltda --
+1578:  Celt -- Posto BR --
+1583:  POSTOS BV1 -- Posto E Padaria Independência --
+1584:  Posto Shell - Automix Com De Combustiveis Ltda -- Posto Shell - Petroleo Espirito Santo Ltda --
+159:  Posto Liberdade -- Posto São Francisco --
+1615:  Posto Shell - Auto Posto Madia -- Auto Posto --
+161:  Auto Posto ALE -- Posto Shell - Auto Posto La Caniza Ltda --
+1626:  Posto Shell - Figueira Gravatai Com Deriv Comb Lt -- Posto de Combustíveis da Figueira - Gravataí --
+162:  Av. Adno Musser -- R. Primavera --
+1647:  Posto Ipiranga -- ampm --
+1650:  Posto Engenheiros - Ipiranga -- ampm --
+1658:  Posto Shell - Auto Posto Estadao De Sto Andre Ltd -- Auto Posto Shell Estônia 2 --
+1656:  Auto Posto Cabeça Branca -- Posto Petrobras --
+1659:  Auto Posto Paladino -- Ultragaz --
+1639:  Auto Posto Recanto da Seringueira! -- Auto Posto Baobá --
+1663:  Eco Posto Aeroporto Limitada -- Posto Shell - Curva Da Galinha Auto Posto Ltda --
+1670:  Posto Ipiranga -- Posto Ipiranga --
+1676:  Posto Colonial - SHELL -- M a Liberio & Cia --
+1686:  Nivacar Auto Posto -- Posto Petrobras --
+1671:  ampm -- Rodoviária de São Luis --
+1692:  Posto Petromasa -- Posto de Gasolina Petromasa --
+1680:  Posto São Marcos -- Posto de gasolina --
+1687:  Jumper Materiais & Serviços p/ Postos Combustivel -- Posto Ipiranga --
+1699:  Auto Posto Palmares -- Posto Liberdade --
+1698:  Av. dos Oitis - Distrito Industrial I -- R. L 3 - Japiim --
+1710:  Auto Posto Marrohe -- Posto Petrobras --
+1706:  Posto Vila Industrial -- Centro Comércio --
+1711:  Posto Dubai -- POSTO MARANELLO --
+1716:  Shell -- Auto Posto Correia Armando Pannunzio --
+1720:  Posto Ipiranga -- ampm --
+1727:  Loja Shell Select - POSTO SHELL - AUTO POSTO PLACAR LTDA -- Centro Automotivo Vila Formosa --
+1725:  Posto Ipiranga -- Centro Automotivo Vila Formosa --
+1729:  Posto do Santa -- Auto Posto Vascelai --
+1733:  Sete Estrelas Comércio de Deriv. de Petroleo -- Sete Estrelas Comércio Derivados de Petróleo --
+1730:  Auto Posto Segóvia -- Posto Brasil --
+1737:  Petromile Combustíveis -- Posto Digo's - Gastão Vidigal --
+1736:  Posto Shell - Cisne Branco Auto Posto -- Posto Shell - Auto Posto Rio Do Ouro Ltda --
+1735:  Auto Posto Francisco Mesquita -- Auto Posto Def & Efi --
+1744:  Posto Ceasa -- Posto Trevo --
+1745:  Posto Furacão -- Posto Ipiranga --
+1752:  Posto Automar -- Shell --
+1751:  Shell -- Posto Automar --
+1772:  Posto Passaré | Shell -- Posto Parajana --
+1759:  Centro Automotivo Montecarlo -- Estação de Serviços Automotivos Amisterda --
+1773:  Auto Posto Lavras Shell -- Posto Petrobras --
+1770:  Posto Parajana -- Petrobrás --
+1779:  Auto Posto Nuno de Assis -- Posto Setee - Auto Posto America De Bauru II Ltda. --
+177:  Auto Posto Avenida -- AUTO POSTO WU --
+1780:  Auto Posto Pinochio Ltda. -- Br --
+1777:  Auto Posto Aparecida Botucatu -- Posto Ipiranga - Auto Posto Irmãos Mendes --
+175:  Autoposto Petrobrás - Posto Tereré -- Ribeiro de Mendonca, Baston & Cia --
+1785:  B.V Comércio de Combustiveis -- Auto Posto Fadel --
+1781:  Serviços e Comércio Ltd Vena Auto Posto -- Auto Posto Pinochio Ltda. --
+1786:  Oliveira Batista Auto Posto Ltda -- Auto Posto Estônia 4 --
+1787:  Auto Posto Shell - Sol -- Oliveira Batista Auto Posto Ltda --
+179:  Auto Posto Petrobrás - Rede Locatelli -- Posto Avenida Afonso Pena --
+1797:  Posto Mario Roberto, bandeira Ipiranga -- Posto Galo Branco --
+17:  Shell -- Posto de Serviços Rimacris Ltda --
+1806:  Comércio de Petroleo Jdois -- Auto Posto Nova São João --
+1807:  Ale Auto Posto Real -- Centro Automotivo Vila Formosa --
+1813:  Shell -- Petromile Combustíveis --
+1811:  Posto Petrobras -- Auto Posto Acauã --
+183:  Posto Albatroz -- Posto Ipiranga, Antigo P4 --
+1847:  Cia Brasileira Distribuição -- Posto Extra --
+1846:  Estação de Serviços Automotivos Amisterda -- Centro Automotivo Montecarlo --
+1823:  Petrograal / GNV -- Posto Mate Amargo --
+1849:  Posto Shell -- Prime Auto Posto Ltda --
+1858:  Posto Shell - Auto Posto Jabuca Ltda -- Posto Ipiranga --
+185:  Posto Albatroz -- Ecoposto Albatroz --
+1862:  Auto Posto Murão - Petrobras -- Posto de Serviços Murão --
+1742:  Posto Petrocal Olinda -- Posto Arruda Beltrão Ltda - Posto Dislub --
+1870:  Comércio de Combustiveis Avenida -- Posto Estoril --
+1874:  Posto Estoril -- Comércio de Combustiveis Avenida --
+1875:  Auto Posto Duque Ipiranga -- ampm --
+188:  Posto Gameleira Suburbana -- Posto Albatroz --
+1893:  Posto Rio Poty -- Posto Rio Poty --
+1901:  Auto Posto Bandeira 2 -- Posto Shell - PIT STOP DERIV DE PETRO LTDA --
+1921:  Auto Posto Boa Vista -- Mendonca & Cia --
+1936:  Posto Petrobras -- Posto BR --
+1931:  Posto Ipiranga -- Auto Posto Terra do Sol --
+1938:  Posto Senandes -- Posto SIM Rio Grande Senandes --
+1942:  Auto Posto Engenheiro -- Shell --
+1946:  Posto Extra - Boa Viagem -- Posto Shell --
+1951:  KRUK E LOPES LTDA -- Posto Magnolia --
+1958:  Posto Shell - (N.Friburgo) -- Posto Gas Gas de Duas Pedras Com. de Combustíveis e Lubr. --
+196:  Posto de Serviços Radiante -- Posto Ipiranga --
+1973:  Loja Shell Select - POSTO SHELL - POSTO OLINDA LTDA -- Posto Jacutinga --
+1980:  Posto 1002 -- Posto Jacutinga --
+1987:  R. Ernâni Lacerda de Oliveira - Parque Santa Candida -- R. Vicente Blanco - Parque Santa Candida --
+1985:  Shell -- Auto Posto Ermano Marchetti --
+2000:  AUTO POSTO MIRAGAIA -- Posto J3 --
+2007:  Posto Venerando -- Posto Petrobras --
+1994:  Posto Shell - Espirito Santo Comercio De Comb Ltd -- Posto Shell - Petroleo Espirito Santo Ltda --
+200:  Posto Petrobras -- Posto Petrobras --
+2019:  Posto Shell - Auto Posto Morro Azul Ltda -- Auto Posto Mustang --
+201:  Posto Sabba -- Posto Sabrina IV --
+2029:  Posto de Combustível Boqueirão Universitário -- Posto Shell - POSTO DE COMB JARDIM DO LAGO LTDA --
+2032:  Salomão Alcolumbre -- Posto Petrobras --
+202:  HE Petroleo Posto Lagoa Seca -- HE Petróleo --
+2037:  Posto Shell -- Auto Posto Irmãos Resende --
+2041:  Auto Posto Petrobras - Formula Foz - Jd. São Paulo -- Posto Consalter --
+2042:  Posto Ipiranga -- Shell - Postos Estrela --
+2048:  Posto 59 -- Posto Carango --
+2052:  Posto Extra Farol -- Posto Carango --
+2053:  Posto Ipiranga -- Posto Carango --
+2074:  Posto Ipiranga -- Sim Rede de Postos --
+2081:  Posto Ipiranga -- Posto Gigante Amparo - Ipiranga --
+2089:  Posto Trevão -- Posto Petrobras --
+2105:  Posto Itapoã -- Posto Koala --
+2110:  Posto Shell - Centro Aut Riviera Tropical Ltda -- Lava Rápido Reviera --
+2116:  Auto Posto Castillo -- Posto Ipiranga / GNV --
+2117:  Posto Shell -- Flamox Gases Soldas --
+2126:  Loja Shell Select - POSTO SHELL - ARARA AZUL REDE DE POSTOS LTDA -- ARARA AZUL REDE DE POSTOS LTDA --
+2129:  Posto Carioquinha -- Posto Freeway --
+2130:  Posto Ipiranga -- Auto Posto Santo Ângelo II --
+2133:  Auto Posto Santo Ângelo II -- Posto Ipiranga --
+2136:  Posto Ipiranga -- Posto Ipiranga --
+2139:  Posto Flórida - Comércio de Combustíveis -- Rede B B Petro Comércio de Combustíveis --
+2140:  Posto Petrobras -- Auto Posto Meps I --
+2148:  Posto Oceano -- Ale --
+2142:  Shell - Nova Petrópolis -- M 3 Auto Posto --
+2150:  Auto Posto Juiz de Fora Ltda -- Posto Santa Rita --
+2141:  Auto Posto MG -- Auto Posto Mavel --
+2168:  Posto Gina -- Posto Fórum 4 --
+2151:  Posto Santa Rita -- Auto Posto Juiz de Fora Ltda --
+2177:  Posto Nossa Senhora da Penha -- Posto Nossa Senhora da Penha --
+2187:  Auto Posto Flecheira -- Auto Posto Asa Delta --
+2166:  Posto Petrobras -- Posto Petrobras --
+2183:  Auto Posto Energia -- Posto Dom Pedro Juíz de Fora --
+2174:  Auto Posto Taperinha -- Posto Petrobras --
+218:  Posto Belo Horizonte -- Posto Paraibano --
+2189:  Posto Geraes -- Posto Shell - Posto Allgas Ltda --
+2199:  Posto Ipiranga -- Auto Posto Parque da Juventude --
+2215:  AUTO POSTO SEREIA -- Ale --
+2230:  Posto Comafel -- Cristal de Valenca Auto Posto --
+2226:  Posto Ipiranga -- Posto 7 --
+2218:  Auto Posto Ouro Verde -- Auto Posto Delta --
+2243:  Posto do Claudio -- Posto Ipiranga --
+2202:  Auto Posto Triunfo -- Sos Gás --
+223:  Posto Shell - Arara Fluminense Com De Combs Ltda -- Posto Garoupa --
+2249:  Auto Posto Rede Souza Caravelas -- Posto Veraneio IV - Caravelas --
+2251:  Posto Getulio -- Postos Ipiranga - Getúlio Vargas --
+2260:  POSTO PAINEIRAS DE BAURU LTDA -- Posto Shell --
+2262:  Posto JK -- Postos Original AP --
+2268:  Auto Posto Júnior -- Auto Posto Gurgel --
+2269:  Auto Posto Rio Branco - Batistão -- Posto Gentil Uberlândia --
+2280:  Posto Shell - Posto S Francisco Com Combs Lubs Lt -- Loja Shell Select - POSTO SHELL - SARQUIS SARQUIS LTDA --
+2293:  Auto Posto Correia Neto -- Auto Posto Tivoli - GNV --
+2296:  Auto Posto Vitoria - Rede Stella&Almeida -- Rede de Postos Stella & Almeida Assis --
+2301:  Posto Recamonde -- Posto Shell - Barracuda Com De Petro Ltda --
+229:  Posto Shell - Auto Posto Campineira Ltda -- Posto Shell - Ap Barbieri De Barao Geraldo Ltda --
+2324:  Posto Shell - Auto Posto Alfa Ltda -- Posto Leste Oeste --
+2323:  Posto São Pedro -- Posto Shell - POSTO SAO PEDRO RIO PRETO LTDA --
+2333:  Posto Pinheirão -- Santos Indústria e Comércio --
+2337:  Auto Posto B & J Combustíveis -- Cruzóleo Derivados de Petróleo Ltda --
+2341:  Posto Shell -- Posto Colorado --
+2340:  Posto Shell - AUTO POSTO CAPELINHA LTDA -- Posto Mirian 2 --
+2345:  Posto Petrobras -- Posto Petrobras - Petrovan --
+234:  Maxxi Gnv Auto Posto -- Posto Petrobras GNV --
+2355:  Av. Gov. Mario Covas, 284 - Vila Gustavo Correia -- Av. Francisco Pignatari - Vila Gustavo Correia --
+2367:  Posto Petrobras Caçula -- Posto de Gasolina --
+2372:  Posto Petrobras -- Posto Souza --
+2373:  Posto Petrobras -- Revamar Lopes --
+2378:  Posto Ipiranga -- Posto Ipiranga --
+2401:  Posto Shell - Auto Posto Simpatia Ltda -- Auto Posto Colorado Ltda --
+2414:  Auto Posto V 12 -- Posto Boxter --
+2421:  Ale -- Auto Posto Zeniteh Guilhermina --
+2425:  Av. Harry Forssel -- R. Almeida Júnior - Belas Artes --
+2426:  Posto Mediterrâneo -- Shell --
+2430:  Posto Dom Pedro Contagem Norte -- Posto Ipiranga Norte Sul --
+2434:  Posto de Gasolina ALE -- Posto Ipiranga --
+2435:  AUTO POSTO ASTORIA Endereço Dos Bairros -- Petrobras --
+2443:  Posto Maior Da Posse -- Posto de Gasolina Numero 1 da Posse Ltda --
+2444:  Posto de Gasolina Numero 1 da Posse Ltda -- Posto de Gasolina Quintella --
+2453:  Posto Ipiranga -- Posto Shell - Posto Tota Ltda --
+244:  Auto Posto Petrolino -- Posto Squizzato --
+2450:  Posto Ipiranga -- Posto Shell Portal de Barueri --
+2464:  Posto Shell - D H PETROLEO LTDA -- Posto Bella Via --
+246:  Posto Monte Belo III - Posto ALE (Lagoa Seca) -- Posto Laís XIX --
+2475:  Auto Posto de Serviços Santo Inácio Ltda. - Shell -- Loja Shell Select - POSTO SHELL - AUTO POSTO ORENSE LTDA --
+2479:  Auto Posto de Serviços Santo Inácio Ltda. - Shell -- Posto Ipiranga --
+2483:  Auto Posto Viaduto do Mirante -- IEZZO - Auto Posto Sao Germano de Ribeirao Pires Ltda --
+2485:  Posto JF 5 | Shell -- Posto Mack V --
+2482:  Auto Posto Lindo Parque -- Auto Posto Tassos - Shell --
+2486:  Posto Petrobras -- SP Combustíveis --
+2496:  Posto Shell - AUTO POSTO LARGO DO JAPONES LTDA -- Auto Posto RELUMA Ltda --
+249:  Auto Posto Colla Silva -- Auto Posto do Ipe - Rio Preto --
+250:  Auto Posto do Ipe - Rio Preto -- Auto Posto Colla Silva --
+2517:  Auto Posto Azaléia -- Posto Verdelho --
+2525:  Auto Posto Independência de Vinhedo -- Posto ALE --
+2528:  Posto de Combustíveis ATMA -- PRYNCIPADO DE VINHEDO COM VAR COMBS --
+2537:  Posto Aldo -- Auto Posto Transamerica --
+2539:  Buccioli Auto Posto -- Posto Ipiranga --
+2550:  Posto Petrobras -- Posto Pasauto --
+2545:  Auto Posto Demais -- Auto Posto Caracas Oil --
+2552:  Shell -- Posto Ipiranga --
+2575:  Posto Petrobras -- Posto Antonio Carvalho --
+2574:  Posto P1 Shell - GNV -- Posto Avenida Ipiranga --
+2577:  Posto Angeloni Beira Mar -- Posto Avenida --
+2585:  Posto Dom Eduardo III - BR Petrobras -- Postos Dom Eduardo --
+2579:  Vian Auto Posto -- Vian Auto Posto --
+258:  PETROBRAS -- J. A. Sobral e Cia --
+2599:  Speed II Posto de Serviços e Conveniências -- Posto Gasolina --
+260:  Aleluia Comércio de Combustiveis -- Posto Ipiranga --
+2612:  Posto Mingatto -- Posto Jardim do Trevo --
+2620:  A G F Varela Posto -- MDPower --
+2645:  Posto Paloma I -- Posto São José --
+2648:  Posto Paloma I -- Posto São José --
+2654:  Posto Barrinhas -- Depósito de Gás Central Gás --
+2653:  Posto Pau furado -- Posto Petrobras --
+2655:  Posto Petrobras -- Posto Petrobras --
+2662:  Auto Posto Kurujao Ltda -- Auto Posto Kurujao Vi --
+2666:  Posto Shell Jales -- Pupim Auto Posto --
+2668:  Posto Ipiranga -- Pupim Auto Posto --
+2671:  Ale -- Posto Shell - AUTO POSTO PARADA 52 LTDA --
+2697:  Posto Ipiranga -- Star Green Auto Posto --
+2699:  Auto Posto Campeche -- Star Green Auto Posto --
+2700:  Posto Shell - EMIGRANTES AUTO POSTO LTDA -- Star Green Auto Posto --
+2705:  Aeroporto -- Auto Posto Aeroporto de Padua --
+2692:  Posto Dourado -- POSTO MODELO --
+2704:  Auto Posto João Gualberto -- Eco Posto Trindade --
+2720:  Posto Ipiranga -- Posto Águia III --
+2722:  Posto Klaus 2 -- Quintino e Leão Comércio de Combustiveis --
+2737:  Posto Ecológico -- Posto Petrobras --
+2733:  Rede Estoril -- Auto Posto Nunes Pinheiro --
+273:  Posto Ipiranga -- Estação São Brás - BRT --
+2693:  Comércio de Derivados de Petroleo Borges -- Posto de gasolina --
+2740:  Posto Shell - Auto Posto G4 Ltda -- Convêniencia Midnight --
+2739:  Posto Sao Jorge de Campinas -- Posto Petrobras --
+2614:  Rede Lk de Postos LK07 -- Posto Shell - Rede Lk De Postos Ltda --
+2745:  Empresa Belo Horizonte de Imóveis Gerais -- Posto Shell - Posto Faisca Ltda Epp --
+2685:  Auto Posto Chácaras Coelho -- Posto Abba --
+2730:  Posto João Pessoa -- Posto Xodó I --
+2768:  Auto Posto Uirapuru -- Andrade Monteiro & Cia --
+2761:  Auto Posto Rodotruck de Pres Prudente -- Makro Atacadista --
+2762:  Posto Forza -- Posto Ale --
+2769:  Posto Itália Maringá -- POSTO VILLA MONÇÕES --
+2770:  Posto São José do Lago -- Scuderia VR --
+2772:  Ale -- Auto posto Matias - Posto Ipiranga --
+2792:  Shell -- Portal da Vila Guilherme --
+2790:  Portal da Vila Guilherme -- Posto Petrobras --
+2787:  Posto Gaúcho 4 -- Posto Petrobras --
+2801:  Posto Jovino -- AUTO POSTO CENTER LTDA --
+2803:  Posto Carletti -- Auto Posto Independencia --
+2820:  Posto Santa Amélia -- Posto Lagoa Mar/ Jaraguá --
+2824:  Posto Costeira -- POSTO CAMARAO LTDA --
+2828:  Auto Posto Picarrao -- Conveniência Osiro --
+282:  Posto Petrobras -- Amarelinha Supermercados - Loja 05 --
+2844:  Livia Auto Posto Ltda -- Posto Ipiranga --
+2850:  Posto Park Imbirussu -- Posto Combustivel Afonso --
+2852:  Posto Boaventura II -- Posto Petrobras --
+2847:  Center Posto Sobral -- Posto Petrobras --
+2860:  Posto RBC -- Pit Stop Dourado --
+2866:  Ale -- Posto Ibituruna --
+2873:  Posto Megapetro -- Postos Delevati --
+2878:  Posto Opção - Mangabeira -- Auto Posto BR - Mangabeira --
+2881:  Posto Ipiranga -- ampm --
+2888:  Posto Ipiranga -- Auto Posto Rota 55 --
+289:  Posto Gda Petroleo Ltda -- Forte Comércio de Derivados de Petróleo Ltda --
+2905:  Posto Ipiranga -- Servgás --
+2906:  Posto Ipiranga -- Comercial Leme Derivados de Petróleo --
+2908:  POSTO RECARY -- R. M. de Melo Combustiveis --
+2907:  Av. Pref. José Neves Teixeira -- Av. Sandoval Morais -- R. Santo Antônio --
+2919:  Auto Posto Santos Dumont -- Posto Aeroporto --
+2936:  Shell -- Org Comercial Guimaraes --
+2947:  Maxi Posto -- Posto Ipiranga --
+2943:  Comercial de Combustíveis J B Ltda -- Posto Ipiranga --
+2950:  Auto Posto Reyauto -- Maxi Posto --
+2957:  Posto Shell - Auto Posto Beverlly Ltda -- Auto Posto Vitória --
+2969:  Posto Shell - Auto Posto Maringa Ltda -- Auto Posto Estrela Vila Gustavo --
+2975:  Posto Urutuba 1 -- Postos RVM Mogi Guaçu - Help --
+2968:  Auto Posto Estrela Vila Gustavo -- Posto Ipiranga --
+2973:  Guarani Postos -- Catz Postos --
+2970:  Posto Dallas Julio Cesar -- Posto Pit Stop --
+298:  Auto Posto Vila Salete -- Posto Shell --
+2998:  POSTO CENTRAL SELECT (bandeira Shell) -- Auto Posto Jk (bandeira Shell) --
+3001:  Navarro Comércio de Combustiveis -- Coelho Com Comb Transporte --
+3011:  Posto Rodomilho -- Posto Sem Fronteira --
+3012:  Auto Posto Alty Ipiranga Ltda -- Posto Petroval --
+300:  Gran Penha Serviços Automotivos -- Auto Posto Vila Salete --
+301:  Posto Shell -- Auto Posto Vila Salete --
+3036:  Posto Triângulo - FP Petróleo -- Auto Posto Casarão --
+3050:  Posto Estrela da Liberdade -- Posto Sanhauá --
+3051:  Shell -- Posto de Combustiveis Bonetto --
+3046:  Posto Shell - POSTO AUTOMAN LTDA -- Auto Posto Space --
+3052:  Shell -- Posto Petrobrás --
+3062:  Posto São Domingos Jockey -- JG Comércio de Petróleo --
+3072:  Av. Lomanto Júnior, 80 - Ginásio -- BR-116 --
+3071:  Av. Lomanto Júnior, 3001 - Vaquejada -- BR-116 --
+3074:  Posto Sidel -- Rancho Catarinense --
+3080:  Posto Sete Estrelas -- Posto de Gasolina Totality --
+3083:  Cavalo de Tróia Comércio de Combustíveis -- Posto Shell --
+3091:  Posto Shell - ARARA AZUL REDE DE POSTOS LTDA -- POSTO COLISEU LTDA --
+3095:  Posto Divino Ltda -- Rede Marcela Posto Marcela --
+3100:  Posto Shell - Abast De Veiculos Alterosa Ltda -- Millagás Liquigás --
+309:  DR Auto Posto Ltda. -- Posto Petrobras --
+3102:  Posto BR Praia da Barra -- Posto Petrobras --
+3119:  Posto Avião -- Posto Raio Cachoeira --
+311:  Posto Mateus -- Posto Amazonas --
+3122:  Av. Luís Carpaneda -- Av. Fernando Costa, 15 - Adriana Parque --
+3099:  Posto Ipiranga -- Posto Shell - Abast De Veiculos Alterosa Ltda --
+3152:  Posto GT7 -- Posto Furacão --
+3158:  Bela Vista Limeira Auto Posto -- Auto Posto Novo Oasis (Ipiranga) --
+3157:  Auto Posto Novo Oasis (Ipiranga) -- Shell --
+3159:  Posto Caçula -- Auto Posto Major Nicácio de Franca --
+3166:  Posto Joelma -- Posto Oliveira/Ale --
+3179:  Auto Posto BV -- Posto Petrobras --
+3182:  Auto Posto São Miguel -- JIR Comércio de Combustiveis --
+3191:  Auto Posto Malibu -- Consigaz Distribuidora de Gás --
+3197:  POSTO AMG PRUDENTE LTDA -- Posto Ipiranga --
+31:  Posto Petrobras -- Petrobras P ENSEADA --
+3206:  Posto Brasil Master -- Posto Índio - Shell Select --
+3208:  Auto Posto São Judas Tadeu -- Shell --
+3214:  Auto Posto Podium -- Auto Posto Podium --
+3237:  Auto Posto Mary Dota -- Auto Posto Núcleo --
+3242:  Shell -- Posto São Raimundo --
+3247:  Auto Posto Eldorado -- Rede Gazoli Auto Posto --
+3248:  Posto Ceará -- Churrascaria Auto Posto Icavel --
+3244:  Rede Gazoli Auto Posto -- Auto Posto Eldorado --
+3256:  Posto Petrobras -- Royal FIC - Posto de Combustível --
+3261:  Posto Petrobras -- Edemir Jardim Neto --
+325:  Posto Formula Br -- Posto Petrobras --
+3264:  Posto Shell -- Posto Joelma --
+3269:  Posto American Oil - Bercap -- Posto Raid --
+3271:  Posto Shell -- Posto Ipiranga --
+327:  Posto Avenida -- CCC Empreendimentos Comerciais --
+3280:  Posto Petrocal Imbiribeira -- Posto Petrocal Pina --
+329:  Terminal Rodoviário de Itabuna -- Posto Shell - RONI COMERCIO DE COMB LTDA --
+3313:  Auto Posto Ressaca -- Posto Extra --
+3314:  Maracanã Automóveis -- Posto Petrobras --
+3323:  Auto Posto São Paulo II -- Posto Shell - Hr Auto Posto Ltda --
+3326:  Posto do Lago - Unidade Maria Dias -- Toller Guerra Comércio de Combustível --
+3334:  Posto- Star Yellow -- Carrefour Posto São Bernardo Demarchi --
+3347:  Av. Mario Gurgel, 3127 - Rio Branco -- Av. Expedito García - Campo Grande --
+335:  Posto Petrobras -- Rede Marcela - Posto Escola --
+3361:  Posto Petrobras -- Posto Chapadão --
+3370:  Posto Ipiranga -- Auto Posto Ferraz --
+3375:  Auto Posto Cidade Cubatão -- Posto Petrobras --
+3378:  Posto Eucalipto -- Posto Petrobras --
+3380:  Posto Castelo -- Ultragaz --
+3383:  City Posto -- Posto Petrobras --
+3384:  Posto do Parque -- Auto Posto Ipiranga --
+3397:  SUPER POSTO ESTRELA LTDA -- Loja Shell Select - POSTO SHELL - E M R LOJAS DE CONVENIENCIAS EIRELI --
+3394:  Posto Ipiranga -- Jóia Posto Ltda - J.Cristóvão Combustíveis --
+33:  Posto Shell - AUTO POSTO SYGNUS ATIBAIA LTDA -- Auto Elétrica & Auto Peças Estância --
+339:  Posto Ipiranga -- Posto Ipiranga --
+3399:  Posto de gasolina Atem -- Auto Posto Gemar --
+3398:  Posto Atem -- Auto Posto Gemar --
+3404:  Posto Petrobras -- Nacional Gás Butano Dist Ltda --
+3408:  Posto Universitario Sotta -- Auto Posto Petroterra Araras --
+3424:  LM & JB AUTO POSTO LTDA. -- Posto Kim --
+3439:  Cacique Petroleo -- Auto Posto São Raimundo - Shell --
+3440:  Posto Castelinho de França -- Gávea --
+3443:  Posto Glória -- Posto Ipiranga --
+3459:  Transyara Transp Rodoviário de Cargas -- Posto Lavauto --
+3460:  Posto Lavauto -- Transyara Transp Rodoviário de Cargas --
+3471:  Posto Ipiranga -- posto --
+3473:  Posto São Domingos Rio Preto -- Auto Posto Prime --
+3477:  Posto Sao Domingos Mister Hull -- Posto Antônio Bezerra --
+347:  SP -- Comercial Itapipoquense de Combustiveis --
+3485:  Posto Ipê -- Posto River Shop --
+3488:  Apollo -- Auto Posto Alinhadao --
+3489:  Posto de Gasolina Bel Vedere -- Posto de Gasolina Varonel --
+3507:  Posto Shell - Auto Posto Macedo Ltda -- Empresa 4B de Serviços Automotivos --
+3515:  Posto Morangueira -- Comércio de Combustiveis Urgnani --
+3513:  Loja Shell Select - POSTO SHELL - COMERCIO DE COMB MORAES SALES LTDA -- Posto Automotivo Tropical --
+3523:  Posto Serviços Apolo 8 -- Posto Shell - Carrefour Posto Tietê --
+3525:  Posto Shell - FORTSUL POSTO SERVS E CONV LTDA -- Posto Shell - Carrefour Posto Tietê --
+3529:  Postos Elefantinho -- Posto Estação Norte --
+3530:  Posto Dois Mil -- Posto 2000 --
+3538:  Posto Br Mania -- AUTO POSTO HIPOCAMPUS --
+3536:  Posto Panda -- Posto Sena --
+3544:  Auto Posto Astro da Mutirao -- Posto Shell --
+3549:  Posto Ipiranga -- Posto Shell - AUTO POSTO SERVE SHELL JALES LTDA --
+354:  Posto Shell - Auto Posto Noventa Ltda -- Lava Rápido Ceará --
+3546:  Auto Posto Ale V -- Posto Tropical --
+3553:  Claudomiro Picanco Carvalho -- Posto Santa Rosa --
+3556:  Posto Petrobras -- Posto Petrobras --
+3554:  Auto Posto Nações Unidas -- Gás Menezes e Macedo --
+3569:  Posto Atem (sarney) -- Posto Nsa Senhora Aparecida 2 - Equador Petróleo --
+3587:  Av. Nicola Demarchi - Demarchi -- R. José D'Ângelo - Demarchi --
+358:  Auto Posto BR - Flor da Praia -- Posto Ipiranga - Maria Teresa --
+3601:  Pedro Barreto e Filho -- Posto Petrobras --
+3606:  Posto 35 -- Lavagem Von Muhlen --
+3616:  ALBUQUERQUE PNEUS LTDA -- Posto Dcn --
+3620:  Posto Norte Sul- Posto Mais Perto de Você! -- Nacional Gás Butano --
+3613:  Posto Petrocal Rosarinho -- Posto Piatan - Ipiranga --
+3623:  Posto Shell - Auto Posto Maria Estela -- SOLARE IPIRANGA --
+3627:  Posto Nossa Senhora Fátima Bauru -- Ultragaz --
+3629:  Auto Posto Caiçara do Casqueiro -- Ultragaz - Cubatão --
+3641:  Posto Shell - Posto Ponte Nova Ltda -- Posto Ipiranga --
+3651:  Loja de Conveniência Posto Ale-Posto Holandes -- Posto Serviço Flórida --
+365:  Posto Shell - Wms Supermercados Do Brasil Ltda. -- Posto Ipiranga Premium --
+3659:  Posto Petrobras -- Auto Posto Bandeira Paulista --
+3668:  Auto Posto Nuno de Assis -- Posto Ipiranga --
+3670:  Posto América de Bauru ll -- Posto Setee - Auto Posto America De Bauru II Ltda. --
+3667:  Posto Shell - POSTO DE PET N SRA DE FATIMA LTDA -- Posto Nossa Senhora Fátima Bauru --
+3677:  Posto BR -- Posto Petrobrás Piatã --
+3682:  Posto Presidente 10 -- Novo Posto Muralha --
+3683:  Auto Posto Bremen Araçatuba -- Zacarias Gás e Água Mineral --
+3680:  Posto Petrobras -- Auto Posto Montana BR --
+3690:  Posto Ipiranga -- Posto Cruzeiro --
+3696:  Posto Shell - Auto Posto Watanabe Ltda -- DW Conveniência --
+369:  Auto Posto Bremen -- Auto Posto São Luiz --
+3702:  Fcq Auto Posto Ltda -- Posto Shell - POSTO COOLAPA LTDA --
+3715:  Posto Bom Jesus -- Posto Ximenes - Shell --
+3714:  Posto BJ -- J a Pontes --
+3721:  Av. Osvaldo Cruz, 1740 - Pôr do Sol -- BR-232, 1740 --
+3723:  Av. Osvaldo Cruz, 4160 - São Miguel -- BR-232, 4160 --
+372:  BOA VIAGEM COM.DERIV.PETROLEO LTDA. -- Posto Shell - Posto Vila Rica Ltda --
+3731:  Auto Serviços Chuchu Beleza -- Auto Posto Vila Barros --
+3730:  Auto Posto Blue Ltda. -- Posto GNV Milena --
+3504:  Shell -- Posto Shell - Auto Posto Monte Castelo S B Doeste --
+3747:  Posto Avenida I -- Sociedade Comercial Irmãos Rodrigues LTDA --
+3749:  Central Posto JP -- Gás --
+3754:  Auto Posto Irmãos Ventura -- Posto Trancredo Neves --
+377:  Vila Rica Com de Combustível Ltda -- Posto Ipiranga --
+3797:  Posto Shell - Auto Posto Catalao Ltda -- Auto Posto Marreco --
+3799:  Auto Posto Marreco -- Posto Ipiranga --
+3790:  Dat - Navegação Transp. e Com. Deriv. Petroleo -- RCA VILLA COM DE COMBUSTIVEIS LTDA --
+379:  Posto Tropical Sul -- Posto Ipiranga --
+3806:  Posto Ipiranga -- Nelson Mak --
+3807:  Posto Petrobras -- Posto Rio Vermelho --
+3810:  Posto Pio Dutra -- BR Petrobras --
+3817:  Posto Petrobras -- Posto Itacoatiara --
+3818:  Posto Itacoatiara -- Posto Ipiranga - Ermesol dos Santo Ferreira --
+3827:  P. Lopes Gnv Posto De Servicos Ltda -- Posto Petrobras --
+3826:  Posto Petrobras -- Posto Shell - Posto De Gasolina Sao Rafael Ltda --
+3831:  Postos Rosul -- Posto CBC --
+384:  Posto Milani - Petrobras -- Auto Posto Montreal - Ipiranga --
+3855:  Ditrento Posto Nh Centro Petrobrás -- Feluma Postos de Serviços --
+3854:  Posto Ríver -- Posto Ipiranga - Pátria Nova --
+3856:  Posto Ipiranga -- Posto Ipiranga --
+3857:  Posto Iccar -- Postos Itex --
+3861:  Posto Texas -- Posto Imax Comércio de Derivad --
+3863:  Posto Imax Comércio de Derivad -- Posto Jovita --
+3862:  Posto Ipiranga -- Posto Ale --
+3865:  Av. Pedro Álvares Cabral -- Av. Tavares Bastos - Marambaia --
+3871:  Posto Shell - Auto Posto Itamarati De Marilia Ltda -- Raizen Combustíveis Sa --
+3877:  Posto Praiamar Petrobras -- Auto PostoVeraneio BR - Petrobras --
+3879:  Auto Posto Stop Car -- Auto Posto Pedro Lessa - Shell --
+387:  Posto Petrobras -- Petrobras --
+3881:  Auto Posto Ludovico -- Posto Nações --
+3893:  Posto Piratininga -- Posto Boto --
+3895:  Posto Petrobras -- Posto Shell - POSTO BRASA LTDA --
+3852:  Petrobras -- Auto Posto Irmãos Ventura --
+3902:  Posto Shell - Auto Posto San Pietro Ltda -- Rede Duque --
+3923:  ARACAJÚ GÁS LTDA - CAMPO MOURÃO -- Auto Posto Ecoflex --
+3931:  Posto Cirne -- BR PETROBRAS --
+3935:  Auto Posto João Pedro -- Bettio Auto Posto de Matao --
+3944:  Posto Digo's - Vila Nova -- Posto Petrobras --
+3940:  Posto Pedra Forte -- Posto Shell --
+3939:  Posto Setee - Auto Posto Pinheiro De Bauru -- Auto Posto Pinheiro de Bauru --
+393:  Posto Ipiranga -- Posto Ale - Colibri --
+3948:  Posto Vilanova -- Nacional Gás Butano --
+3930:  Posto Bonzão -- Posto Pinheiro Borges Matriz --
+3958:  Irmaos Quinzani Ltda -- Posto Shell - LEONARDO DANNI QUINZANI --
+3963:  Posto Papagaio GNV -- Posto Macuxi --
+3964:  Posto Jorge Vieira | Shell -- Posto Papagaio GNV --
+3980:  Posto Petrobras -- Posto Shell - GAPEL LTDA --
+3975:  Av. Portugal - Cidade Nova -- Av. Maj. Carlos Pinto - Cidade Nova --
+3993:  Box Ztecx -- Posto Petrobras --
+3996:  Auto Posto Avarezinho -- Posto Petrobras --
+3985:  Auto Posto Estância Hidromineral de Poa -- R. Prefeito Francisco Rodrigues Filho, 593 --
+3986:  Petrobras -- Posto Petrobras --
+3997:  Posto Petrobras -- Auto Posto Avarezinho --
+3999:  Posto Borsatto 2000 -- Auto Posto Verenka Ltda (REDE VR) --
+4006:  Auto Posto BR - Posto Nossa Senhora de Fátima II -- Posto Shell - Posto Tota Ltda --
+4005:  Posto Ipiranga -- Posto Ale --
+400:  Posto Mataripe 5 - Petrobrás -- Lg Service Center --
+4010:  Posto Torre Leste -- Auto Posto Mogi Bertioga --
+4034:  Posto AEL Miragem Ltda. -- Posto Petrobras --
+4036:  Loja Shell Select - POSTO SHELL - F P PETROLEO LTDA -- F P PETROLEO LTDA --
+4055:  Auto Posto Pólo Petroquímico -- Auto Posto Irmaos Batistucci --
+4074:  Posto Nova Itaperuna -- Posto Petrobras --
+4085:  Posto CNA -- Auto Posto Skalla Derivados de Petroleo --
+4146:  Posto Iguatemi -- Posto Extra --
+4092:  Auto Posto Lindo Parque -- Auto Posto Tassos - Shell --
+40:  Posto Rio Negro -- POSTO SERVICOS DUQUE ALPHAVILLE LTD --
+4099:  POSTO REPUBLICA DIST DERIV PETROL -- SIM - Rede de Postos --
+4096:  Auto Posto Nihon -- Posto Presidente --
+410:  Av. Antônio Carlos Paniago -- Av. Oitava, 16 - St. Centro e Oeste --
+4116:  Posto Atlântico - BR -- Posto Ipiranga --
+4118:  Posto Ipiranga -- Center Sul Auto Posto --
+412:  AUTO POSTO CARIBE -- Posto Antonio Carvalho --
+4124:  Sete Estrelas Comércio Derivados Petróleo -- Posto De Combustivel Sete Estrelas --
+4156:  Posto de gasolina -- Posto Americano --
+4159:  Posto Carrilho - Equador Petróleo -- Auto Posto Carrilho --
+4169:  Auto Posto Guaçu Brasil -- Comercial e Transportadora Urutuba --
+4171:  Posto Petrobras -- Posto Auto Giro --
+4173:  Posto Manacas Ltda -- Posto VEM K --
+4175:  Mash Posto Serviços -- Posto Shell - Gigante da Imigrantes --
+4189:  Auto Posto Majestic Garça -- Auto Posto Skinão De Garça Ltda --
+418:  Federal Distribuidora de Petróleo -- Posto Petrocal Pina --
+4185:  Auto Posto Montreal -- Posto Monte Carlo Ribeirão Preto --
+4211:  Petrobrás -- Posto Ipiranga --
+4231:  Posto Shell - Comercial Presidente Juscelino Ltda -- posto AM/PM --
+4234:  Posto Zacarias -- Posto Shell - Cimini Prais Cia Ltda Me --
+4242:  SUPER POSTO 902 LTDA -- Posto Ipiranga --
+4240:  Posto Ipiranga -- ampm --
+4248:  Posto Ipiranga -- Baggio e Parizzi Ltda --
+4256:  Auto Posto Doginho -- Posto Petrobras --
+4273:  Posto Petrobras -- UDIVOL --
+4271:  Posto Inca - GNV -- Posto Cidadão Capaz - GNV --
+4289:  Ale -- Posto Ipiranga --
+4282:  Posto Itatiaia -- Posto Petrobras --
+4297:  Posto Moinho -- Posto Petrobras --
+4281:  Posto Shell - Carlos Alberto Papacidero -- Carrefour Posto Limão --
+4288:  Petrobras -- Posto Ale --
+4280:  Carrefour Posto Limão -- Posto Petrobras --
+4300:  Posto Shell - Posto De Servico Malta 01 Ltda -- Posto das Carpas • BR --
+4285:  Conveniencia 2000 -- Posto Ale - Auto Posto 2000 --
+427:  Posto Planalto -- Flexpetro Distribuidora de Derivados de Petróleo Ltda. --
+4305:  Posto Ipiranga WF -- Posto Flamingo --
+4301:  MALURE AUTO POSTO LTDA -- Posto das Carpas • BR --
+4414:  Posto Petrobras -- Posto Terminal Shell --
+430:  Posto Ipiranga -- Auto Posto PitStop - SMALL --
+4316:  Auto Posto e Conveniência Ágape - Filial -- Posto Shell - Auto Posto Berrantao Barretos Ltda --
+4317:  Posto BR -- Posto Ale - Auto Posto 2000 --
+4326:  Auto Posto Simi -- IEZZO - Auto Posto Santa Vitória --
+4329:  Posto Petrobras -- Posto Rota Protasio --
+4327:  Gás Do Mi -- Posto das Palmeiras --
+4330:  Posto São Luiz II -- Shell --
+4354:  Av. Raimundo de Aquino, 350 - Vila Joao Bras -- R. João Brás - St. Central --
+4359:  Posto Pingo de Ouro -- Posto Jardim Vitória --
+4363:  Posto Shell - Posto Shell Rebouças -- Posto Shell - A.POSTO AV.REBOUCAS DE SUMARE LTDA --
+435:  Auto Posto Apolo -- Fortunato & Zafani --
+4374:  Posto São Sebastião -- Posto Bh Auto Centro --
+4380:  Europosto Com. de Combustíveis e Derivados de Petroleo -- Posto Petrobras --
+4383:  Tigrão IV -- Mega Posto Marília --
+4397:  Posto Petrobras -- DMT CITY PETROPOLIS --
+4377:  Posto Bristol -- Posto Petrobras - GNV Oiti --
+43:  Posto Monsenhor Escriva Ltda. -- Nitgas do Brasil --
+439:  4u Combustiveis - PPA -- Posto Petrobras --
+4402:  Posto Petrobras ( Posto Amigão) -- AUTO POSTO TRADICAO --
+440:  Auto Posto Gran Suzano 2 -- Gran Suzano I --
+4417:  Auto Posto Progresso -- Posto Rio Branco (Mavesa Matuoka Veículos Ltda) --
+442:  Posto Scariot -- Posto Petrobras --
+4425:  Auto Posto Siqlub -- Posto Shell - Auto Posto M A Ltda --
+4436:  Posto Guimarães -- Posto De Saude --
+4439:  Posto Ipiranga -- Posto Presidente --
+444:  Posto Milleniunn -- Posto Trevinho --
+4467:  Shell -- Petro Amazon - Auto Posto Japiim --
+4466:  Alg Derivados de Petroleo -- Posto COTAM - Equador Petróleo --
+4462:  posto paraki -- Posto Palmares Ipiranga --
+4474:  Posto Bela Vista 1 | Shell -- Posto Bela Vista IV --
+4464:  Posto BR -- Delli Portal --
+4470:  Elefantinho -- Posto Petrobras --
+4476:  Posto Jardim Brasil -- Auto Posto Jardim Brasil --
+4477:  Auto Posto Jardim Brasil -- Posto Jardim Brasil --
+4484:  Posto Petrobrás -- Auto Posto Via Única --
+4488:  Auto Posto Caucaia Ltda - Rede D+ -- Posto Ipiranga --
+4489:  Auto Posto Rota 66 Ltda- Rede D+ -- Auto Posto Caucaia Ltda - Rede D+ --
+4494:  Posto Petrobras -- Rede 28 - Auto Posto Grou Ltda. --
+4501:  Posto Ipiranga -- ampm --
+4497:  Auto Posto Rotary -- Auto Posto Bracale --
+4502:  Petrotech Combustíveis -- Tonello Equipamentos e Soldas Ltda --
+450:  Posto Ipiranga -- Shell --
+4505:  Petrotech Combustíveis -- Auto Posto Comboio Perimetral --
+4520:  Posto Petrobras -- Associação Medica Cearense --
+4528:  Posto TOP 7- ( BR ) -- Posto Ipiranga --
+4537:  Auto Posto Santa Leticia -- Posto Ipiranga Santa Letícia --
+4544:  Casali & Félix -- Posto Santa Bárbara --
+4541:  Posto Extra - Bosque Maia -- Posto Shell - COMPANHIA BRASILEIRA D DISTRIBUICAO --
+4553:  Posto BR Petrobras / GNV - Ouro Negro -- Posto Petrobras --
+4555:  Posto Trevo -- Mercantil Aliança de Combustiveis --
+4554:  Posto Petrobras -- Posto Petrobras --
+4562:  Posto Coqueiral -- Posto Costa Azul --
+4556:  Posto Trevo 9 -- Posto Plus Brasil --
+4566:  Auto Posto Aveiro da Vila Albertina -- Auto Posto Iguarassu Lubrax --
+457:  Auto Posto Brunholi Ltda -- Alesat Combustíveis S.A. --
+4581:  Posto Cidade -- Salim Camal Comércio e Deriv. de Petroleo --
+458:  Posto Santa Fé -- Posto de gasolina --
+4590:  Posto Santos Dumont -- Posto Vera Cruz --
+4594:  Av. Santos Dumont, 249 - Vila Vilma -- Av. Artur de Queirós - Centro --
+4604:  Av. Santos Dumont, 4958 - Centro -- R. das Pitangueiras - Jardim Aeroporto --
+460:  Auto Posto Cidade -- Posto De Combustivel Petobras Nikkey --
+4616:  Posto Alvorada de Franca -- Posto Select - Santos Dumont --
+4618:  Posto de Serviços São Camilo da Granja Viana -- Shell --
+461:  Posto De Combustivel Petobras Nikkey -- Posto Atlantic --
+4621:  Posto e Conveniência Quatri -- Posto São Domingos --
+4617:  Posto Santos Dumont -- Posto Osvaldo Cruz --
+4648:  Posto Rio Paraguai -- Posto Shell - COMLUC COMERC LUBRIF E COMB LTDA --
+4643:  Posto Ipiranga -- Posto Carone - Itapiracó --
+4649:  Posto Ipiranga -- Auto Posto Portal da Penha --
+4645:  Pitágoras -- Rio Anil Shopping --
+465:  Shell -- Loja Shell Select - POSTO SHELL - STOP CONVENIENCIA APOLONIO SALES LT --
+4655:  Shell Atacadão -- Posto Assaí São Miguel --
+4689:  Posto Shell - Posto Ismael Junior Ltda -- Sônia Gás --
+4691:  Posto Shell - Vif Comercio De Combustiveis Ltda -- Posto Shell - Posto Allgas Ltda --
+4693:  POSTO AFX -- Posto SP SOARES --
+4692:  Shell -- Posto SP SOARES --
+4697:  Posto Resende -- Shell --
+4699:  Posto da Cuia - Jet Oil Comercio De Combustiveis Fama Ltda -- Posto Ana Terra - Filial --
+4698:  Posto Iate (Shell) -- Rede Marcela - Posto Escola --
+469:  Comercial Combustíveis Alphapollo -- Posto Petrobras --
+4706:  Posto Guarapuavão -- Posto B2 --
+4709:  Posto Jardim Novo Mundo -- Posto Petrobras --
+4714:  Posto stop -- Posto Senador --
+4715:  Auto posto Santa Rita 2 -- Posto stop --
+46:  Mister Gás -- Ale --
+4725:  Shell -- Auto Posto Bandeirantes --
+4652:  Posto Shell - AUTO POSTO NOVO CANTANHEDE LTDA -- Gas Station --
+4724:  Posto Bentivi -- Posto Nacional --
+4730:  Posto Ipiranga -- Posto Ale --
+4748:  Posto Cauípe | Shell -- POSTO CAUIPE 01 --
+4747:  Auto Posto Eco -- Transcooper - Coop. Trab. Aut. e Altern. Campinas --
+4750:  Posto Cocoma -- Cooperativa de Consumo dos Mot Autonomos de São Luis --
+4760:  Posto de Combustivel Vila Cruzeiro -- Posto Vila Cruzeiro Ltda --
+476:  AUTO POSTO ARAPUÃ -- Posto Petrobras --
+4754:  Posto BR Golden Green -- Air BP Brasil --
+4774:  Posto Man GNV -- Posto Petrobras --
+4766:  Posto Mimim -- Posto Shell - Itajai Combustiveis --
+4776:  Posto FAMA -- Posto Quatro Comércio de Combustíveis Ltda --
+4784:  Posto Shell - Tropical Derivados De Petroleo Ltda -- Posto Boiadeiro --
+4788:  Posto Ipiranga -- Posto Ipiranga --
+4799:  Posto Petrobras -- Beira Rio Empreendimentos --
+4802:  Solaris Serviços Automotivos -- Posto Shell - AUTO POSTO RETAO DA DUTRA LTDA --
+4805:  Shell -- Delta Auto Posto de Paraguaçu --
+4823:  Posto Ipiranga -- Auto Posto Santa Leticia --
+4827:  Auto Posto 25 -- Centro Automotivo Luiz XII --
+4826:  Posto Golan -- Posto Shell - C A METELLO CENTRO AUTOMOTIVO LTDA --
+4830:  Av. T-15 -- R. dos Bombeiros - Serrinha --
+4847:  Posto Tancredo Neves -- Ponto De Táxi --
+484:  VANDER GAS E AGUA LOJA ll -- Paraíso Água e Gás --
+4845:  Auto Posto Bandeira 5 -- Auto Posto Bandeira 5 --
+4857:  Posto Tancredo -- Posto Lider de Presidente Prudente --
+4866:  Posto Interlagos -- SGA INTERLAGOS COMBUSTIVEIS LTDA --
+4863:  Posto Petrobras -- Posto Ipiranga --
+4877:  Auto Posto Amazon -- Posto Ipiranga --
+4876:  Posto Ipiranga -- Posto Ipiranga --
+4886:  Av. Teodoreto Veloso de Carvalho -- R. Sibipiruna - Santa Helena --
+4890:  Posto Br - Posto Leste Oeste -- Posto Ipiranga --
+4889:  Bmc Posto de Serviço -- Posto de gasolina Shanghai --
+488:  Auto Posto Iberico-Shell -- Posto Passarela Aricanduva --
+4896:  Posto Petrobras -- Posto Gold --
+4921:  Posto Pratagy -- Shell --
+4920:  Posto Trovão Ltda -- Posto Gas --
+493:  Auto Posto Nafta -- Posto Samuca --
+4939:  Posto Interlagos -- Posto Eldorado --
+4953:  Posto Piga 2000 -- Posto Boa Vista --
+4956:  Posto Canadá | Shell -- Sobral & Palacio Matriz --
+4962:  R. Tucanos -- R. Rio Negro, 241 - Jardim Jorge Teixeira --
+4959:  Posto Barra Dez -- Posto Colonial --
+496:  Posto Machadão Ltda -- Comercial de Combustíveis Monlevade --
+4969:  Posto São Jose -- Posto Ipiranga --
+4974:  Petrobrás BR -- Posto Petrobras --
+4976:  Posto Petrolina Petrobras -- Posto Petrolina --
+497:  Posto Mega Verão -- Shell --
+4981:  Posto de Combustiveis Neves -- W L COMERCIO DE COMBUSTIVEIS LTDA --
+4985:  Gold Postos -- Posto Ello --
+5000:  Posto Petrobras -- Paep Nordeste --
+5005:  Posto Ipiranga -- Vargas Comércio de Combustiveis --
+5019:  Posto Classic -- YOSHIURA & YOSHIURA LTDA --
+5022:  Posto Ipiranga -- Auto Posto Alvorada de Assis --
+5016:  ALE -- Centro Automotivo Abel Ferreira --
+5028:  Auto Posto Amigão -- Posto Smart --
+5025:  Auto Posto JL -- Posto Nascimento Ltda --
+5032:  Posto Shopping Mogi -- Posto Petrobras --
+5035:  Aladin Posto de Abastecimento e Serviços -- Loja Shell Select - POSTO SHELL - LOJA DE CONVENIENCIAS SIKER LTDA --
+503:  Posto Candango -- ALE --
+5036:  Posto Petrobras -- Posto Aladin --
+5039:  Posto Shell -- C&C - Casa e Construção Vicente de Carvalho --
+5052:  Auto Posto Centinela -- Posto de Serviços Rally Shell --
+5063:  Auto Posto Canarinho -- Posto Petrobras --
+5059:  Posto Gabi - Petrobras BR -- Posto Vilarinho --
+5077:  Auto Posto Gato Congos -- Posto Petrobras --
+5078:  Posto São João -- Posto Petrobras --
+5079:  Posto Shalom -- Posto São João --
+5083:  Shell -- Posto Shell Via Sul --
+5088:  Auto Posto Companheiro -- Auto Posto J e J --
+5089:  Posto Santa Rita -- Posto Itamaraty --
+5071:  SGA INTERLAGOS COMBUSTIVEIS LTDA -- Rede Mariana --
+5104:  Auto Posto BR -- Adib B. Salume & Cia --
+5112:  Posto Petrobras -- Vieira & Filhos Araçatuba Ltda --
+5100:  Posto Ipiranga -- Zuniga & Zuniga --
+5107:  Auto Posto Vitória Régia Birigui -- Posto Ipiranga --
+5106:  Auto Posto e Serviço Zumach -- Bom de Gás --
+5114:  AUTO POSTO REDE LESTE COM COMB LTDA -- Auto Posto GFM --
+5115:  Posto Ipiranga -- Posto Shell - Auto Posto Jetbel Ltda --
+5119:  Auto Posto Portal das Águas -- Posto Petrobras --
+5132:  Posto Ipiranga -- Posto Brasil --
+5116:  Auto Posto Garbras Araçatuba -- American Lub Lubrificantes --
+5136:  Posto Brasil -- Posto Ipiranga --
+5147:  Aquárius Empreendimentos e Participações -- Posto Petrobras --
+5154:  Shell -- Hiper Posto Brasil --
+5167:  Posto Shell - ITAPOSTO DE GASOLINA LTDA -- Posto Nova Itaperuna --
+5170:  Posto Ipiranga -- Auto Posto Parque Do Carmo --
+5179:  Posto Shell -- Posto Ipiranga --
+5184:  Posto Taffarel - Ipiranga -- Posto Ipiranga - Taffarel --
+5185:  Auto Posto Express de Dracena -- Posto Shell - Auto Posto Comar Ltda --
+5193:  Posto Italy -- Posto Santo Expedito --
+5196:  IPIRANGA - Auto Posto Falcon Combustuveis Ltda -- Consigaz --
+5190:  Posto Ipiranga Mercado Do Bosque -- T. M. Comércio de Combustiveis e Derivados --
+5203:  Posto Ipiranga -- Posto Norte Sul --
+5211:  Posto Reis Magos | BR -- Posto Petrobras --
+5206:  Posto Shell - Posto São Luiz IV -- Posto São Luiz II --
+520:  Auto Posto Decio -- Posto Petrobras --
+5217:  Auto Posto Copa 70 -- W4 Hotel --
+5239:  Auto Posto JR -- Posto Jarjour Taguatinga --
+5109:  Posto Petrobras -- Posto Shell - Auto Posto Kinta Roda Ltda --
+5152:  POSTO JP MOSSORÓ -- Petrobras --
+5259:  Star White Auto Posto -- Posto Shell - Star White Auto Posto Ltda --
+5267:  Ditrento Postos E Logistica Ltda -- Posto Monte Claro - SIM Rede de Postos --
+5272:  Texacao Alegrete -- Posto Texacão Do Cavera --
+527:  Postos Ararajuba - Nova Cidade -- Posto Petrobras --
+5279:  Posto Campinas -- Serv Gás --
+5283:  Posto Capoeiras -- Posto Ipiranga --
+529:  Posto Panda 05 -- Posto Petrobras --
+5304:  Auto Posto Capela-Vinhedo -- Posto Ipiranga --
+5309:  Auto Posto Columbia -- Posto Petrobras --
+5313:  Posto Shell - Centro Autom Golfe Clube Ltda -- P Gas E Bar Garoa Ltda --
+5317:  Auto Posto Shell - São Francisco -- Posto Shell - R C De Sousa --
+5319:  Guaragas do Brasil Posto de Gasolina Ltda -- Guaratiba Revendedora de Gás --
+5316:  Posto Ipiranga -- Posto Eldorado --
+5327:  Auto Posto Thalma -- Posto Petrobras --
+5332:  Multi Postos Cancun III -- Posto Açores --
+533:  Alvorecer Auto -- posto Ipiranga --
+5347:  Auto Posto Gibi -- Posto Tornado --
+5359:  Shell -- Posto Aleixo 2 Aleixo --
+5383:  Auto Posto Cadima -- Posto Petrobras --
+5382:  Posto Dig -- disk gás e água --
+5385:  POSTO GUARATIBA LTDA -- Estação BRT Mato Alto --
+5388:  Auto Posto Girão -- Auto Posto Jardim Jaraguá --
+5393:  Elias Morgado de Almeida e Filhos -- Elias Morgado de Almeida --
+5397:  Vetor Auto Posto -- Auto Posto Helena Yokoya LTDA --
+5402:  Posto Shell - Posto Quality Supra Ltda -- Posto Shell - Posto Quality Supra --
+5418:  Posto Petrobras -- Posto BR Grotão --
+5415:  Posto Magalhães Ltda - Petrobras -- Posto Tetra --
+5422:  Posto de Gasolina Canárias -- Posto de Abastecimento GNV Torremolinos --
+543:  Posto Bichim Bauru -- Posto Petrobras --
+5432:  D'avó Posto -- Posto Extra --
+5423:  Posto Ale -- Posto Vila Flor --
+5442:  Auto Posto Acácia da Serra -- Rede 28 - Posto do Sino Ltda. --
+545:  Posto Shell - Hirochi Kitagawa E Cia Ltda -- Auto Posto Cergal --
+5463:  Posto de Gasolina Bicão -- Posto de Serviços Quitungo --
+5471:  Marluce Neto Auto Posto -- Posto Boxter --
+5472:  Posto Ipiranga -- Auto Posto Shell --
+5478:  Auto Posto Shell -- Posto RSB --
+5508:  Auto Posto Sobral -- Posto Petrobras --
+5507:  Posto Serra Grande -- Mercado Serra Grande --
+5520:  Posto Shell - Enzo Itaipava Ltda -- Auto Posto RJ --
+5515:  Posto União II -- Posto União I --
+5518:  Posto Ipiranga -- Posto Shell - Auto Posto Lucca --
+555:  Posto Forza Dutra -- Auto Posto do Trabalho XIX --
+556:  Posto Arla Ltda -- Posto Forza --
+5567:  Posto Mata Do Rolo -- Mata Do Rolo --
+5586:  Posto Rodobello -- Posto Shell - Marlim Comb Ltda --
+5593:  Posto Praça da Bandeira Ltda -- Posto Globo Petrobras --
+55:  Auto Posto Pires Pimentel -- Posto do Lago Ipiranga --
+5613:  Posto Pelicano V -- Posto Ipiranga --
+5620:  Auto Posto LG1 -- Posto Triângulo --
+5625:  Auto Posto Joia de Diadema -- Posto Extra - Extra Piraporinha --
+5619:  Posto Santa Mônica -- Posto Santa Mônica --
+5627:  Auto Posto São João De Bonfim -- Posto Petrobras --
+5644:  COM VAR DE COMB JARDIM SA LTDA -- Auto Posto Shell - Jardim SA --
+5648:  Praça Delegado Amoroso Neto, 9 - Casa Verde -- Av. Alfredo Egídio de Souza Aranha - Santo Amaro --
+5662:  Posto Atalaia -- Posto Petrobras --
+5661:  Posto Petrolim -- PETROLIM LTDA --
+5672:  Posto De Gasolina M B Caçulinha -- Auto Posto Novo Tempo --
+5689:  Trindade -- Posto Shumack --
+5690:  Posto Ipiranga -- Posto Petrobras --
+5706:  Posto de Gasolina IV Centenario -- Posto Petrobras --
+5708:  POSTO DE GAS LUB VALQUEIRE LTDA -- Posto de Gasolina e Serviços Nova Valqueire --
+5726:  AUTO POSTO QS 09 EIRELE -- Rede Santa - Postos de Combustível --
+5739:  Q. 301 Rua A Conjunto 2 -- Blvd. Norte, 4 - Águas Claras --
+5737:  Capital Gás e Água Mineral -- Posto Petrolíder --
+5747:  Q. 804 Sul Alameda 8 - Plano Diretor Sul -- Av. NS - 04 - Plano Diretor Norte --
+5759:  Valparaiso setor de chácara Anhanguera C -- Posto Ipiranga --
+5780:  Posto Gasolina Frei Galvão -- Auto Posto Frei Galvão --
+5771:  Posto Grazielly -- Posto Rio Poty --
+5788:  Posto Aldo -- Posto Masut - Posto Trevão - Posto Shell --
+5804:  Posto Ipiranga -- Posto de Serviços Ilha Bela --
+580:  PG Postos -- Parelhas Gas (PG Postos) --
+5825:  Rod. Amaral Peixoto -- BR-101 --
+5831:  Posto Shell - IRMAOS MATARUNA LTDA -- Ale --
+5832:  RJ-106 -- R. Capa Azul - Viaduto --
+582:  Posto Cidade Verde -- Posto macaco --
+583:  Posto Cidade Verde -- Posto Petrobras --
+5847:  Av. Anel Viário - Jurema -- BR-020 -- CE-065 --
+5875:  Rede Posto Omega Petrobras -- Posto Ipiranga --
+5887:  Posto Ecodrive ( Rede Buriti) -- AUTO POSTO VALE DO SOL LTDA --
+5888:  AUTO POSTO VALE DO SOL LTDA -- Posto Regina de Petróleo --
+5880:  COSTA ATLANTICO COM PROD DER PETRO -- Posto Shell - PARAISO COM DER PETROLEO SERV LTDA --
+5890:  BR-010 -- PA-256, 1672 - Nova Conquista --
+5894:  Rede São Roque -- Posto Itiquira --
+5922:  Posto Caxuxa Tapajós -- Posto Decio Buriti --
+592:  Posto de gasolina Total -- Auto Posto Ipiranga - Belomar --
+594:  Posto Ipiranga -- Posto Petrocal Piedade --
+5948:  POSTO SÃO CRISTÓVÃO BR 101 kM 235 -- POSTO MACIAMBU LTDA --
+5966:  Posto Manga Larga - GNV -- Posto Karapina (Chimarrão) --
+5972:  Posto Dadinho Ipiranga -- Posto Jequitiba --
+5968:  BELAZETH DERIVADOS DE PETROLEO LTDA -- Posto Alagoinhas --
+5978:  Posto JAM Terra de Areia -- Posto Shell --
+5993:  Posto Atrás Do Muro II -- Posto Nota 10 --
+6001:  Posto Malacarne -- Posto Ipiranga --
+6003:  Rede Serrano -- A C DERIVADOS DE PETROLEO LTDA --
+6013:  Posto Padre Cícero -- Posto Ipiranga Texacão --
+6009:  POSTO ACACIA LTDA -- Posto Uirapuru --
+6027:  Posto Tirol -- Posto Imigrante --
+6036:  Posto De Combustível Shell -- Atacadão --
+6044:  Posto Dom Pedro Jaguaquara -- SERRA COM DE DERIVADOS DE PETR LTDA --
+6046:  Posto Km 71 -- Posto de Serviço Jamanta de Jamapará --
+6052:  Auto Posto Batalha -- Posto 47 e conveniência --
+6062:  Posto Pituba -- Auto Posto Reforço --
+6026:  Posto PINHEIRO - GNV -- Posto Sim Petrobrás－São Ciro --
+6068:  Posto Magnólia -- Posto Magnólia 2 --
+6080:  BR-153 -- BR-101 --
+6086:  POSTO ALVORADA LTDA -- Posto Millenium Goiatuba 2 --
+6090:  Posto 99 -- Auto Posto Takao --
+6081:  Posto Petrobras -- São Roque Morrinhos --
+6100:  Posto São Cristóvão -- Bufallo Auto Posto - Auto posto Lozzi --
+6104:  Auto Posto Ursão I -- Posto Masut - Posto Trevão - Posto Shell --
+609:  Posto Tropical I -- Shell --
+610:  Shell -- Posto Tropical I --
+6121:  POSTO COMBUSTIVEIS IPUEIRINHA LTDA -- Posto Sao Domingos Jaburuna --
+6141:  Posto Moxotó -- Brasil Gás --
+6144:  BR-235 -- R. Itacanema --
+6152:  BR-262 -- BR-478 --
+6154:  BR-262 -- Anel Rodoviário --
+6156:  Posto Carijó -- Posto Shell - Carrefour Posto Pampulha --
+6170:  Distribuidora Estrada -- Posto Quinta - Campo Largo - Shell --
+6172:  Posto Sabiazão - Rede Petrobras -- AGROROTA --
+6177:  Comercial Buffon Combustíveis e Transportes -- Posto Buffon 28 --
+6188:  Posto MAKRO BR- 316 -- Posto Grão Pará 2 --
+6190:  BR-316 -- Av. Severo Eulálio, 308 - Canto da Várzea --
+6198:  BR-324 -- R. Jaqueira do Carneiro --
+6220:  Petrobras -- Petrobras - Posto Curva do Retiro --
+6234:  POSTO BARRAL 2 - LR Comércio de Petróleo Ltda -- Posto Abrantes -Trialem Combustiveis --
+6245:  Petrobras Posto Campina -- Campina Comércio de Combustíveis --
+6268:  Pousada Beija-Flor dos Pampas -- Posto Ditrento --
+6281:  Posto Paizão -- Posto Raul Lins --
+6283:  Posto Paizão -- Posto Petrobras --
+6286:  Posto Ipiranga - RSC 471 -- Hotel Feldmann --
+6296:  Auto Posto Novo Toriba -- Auto Posto Toriba --
+6302:  Rod. Camilo Teixeira da Costa - Tupi B -- Rod. Camilo Teixeira da Costa, 555 - Primeiro de Maio --
+6311:  Posto Araripe -- Posto Ipiranga --
+6309:  Posto Estruturante -- Posto do Garrote --
+6312:  Posto Litorâneo | Shell -- Posto Shell - F P PETROLEO LTDA --
+6313:  CE-090 -- R. Parque Deodato --
+6324:  Auto Posto Cupimzão LTDA -- Posto Shell - CHICHETTO AUTO POSTO LTDA --
+6332:  Pazini Auto Posto -- Auto Posto Guapiranga --
+6335:  Carrefour Posto Pinhais -- NSL COMBUSTIVEIS E CONV LTDA --
+6336:  Posto Itiquira -- Auto Posto Lazzat --
+6351:  Posto Rodeadouro -- Papa Léguas Depósito de Gás --
+634:  Serv Posto Oásis -- Posto Barão de Itapura / GNV --
+6348:  DOM PEDRO PARKING POSTO LTDA -- Posto Petrobras --
+6353:  Posto América -- Posto Shell Rio Cuiaba --
+6366:  Auto Posto Novo Campeche -- Eco Posto Rio Tavares (Ipiranga) --
+6370:  Rodovia Engenheiro João Baptista Cabral Rennó -- SP-225 --
+6372:  Posto Petrobras -- Posto Marlin --
+6364:  Auto Posto e Restaurante Morro Azul -- AUTO P MORRO AZUL DE ITATIBA LTDA --
+6378:  Posto Rede Sertanejo Votuporanga -- Auto Posto Trevão --
+6399:  R. Francisco Tolentino - Centro -- Servidao Emilia Custodia Vieira, 375 - Rio Tavares --
+6389:  Auto Posto Bonfante -- Petrobras --
+6400:  Trevo Gás E Água -- Engenho do Campeche --
+6428:  Posto Ipiranga -- Posto Ipiranga - Paisagem --
+6431:  Rod. Jorge Amado -- BR-415 --
+6438:  Posto Ipiranga -- Posto JK --
+6439:  Posto JK -- Posto Ipiranga --
+6432:  Posto Banco da Vitória -- Posto Tigrão --
+6456:  Posto Construmaq - Posto Turim -- Posto Ipiranga --
+6462:  Auto Posto Cacique II -- Posto Petrobras --
+6461:  Posto Garcia -- Posto Petrobras --
+6464:  Posto 5 Estrelas -- BELAZETH DERIVADOS DE PETROLEO LTDA --
+6473:  Posto Ipiranga -- Posto Shell - Posto Serra Das Mansoes Ltda --
+6484:  Auto Posto Coleginho Ltda -- Posto Petrobras --
+6490:  Posto Shell -- Posto Petrobras --
+6492:  Posto DAMIANI Rodovia Guriri -- Posto DAMIANI Forno Velho --
+6494:  Posto Roda Viva Cidade -- Petrobras --
+6518:  PR-151 -- BR-267, 900 - Centro --
+6511:  Posto Portal de Suape -- Porto de Suape --
+654:  Posto Theresina -- Posto Icaraí --
+6557:  Posto Sakamoto II -- Posto Farol --
+6556:  Posto Shell - POSTO GASOLINA AMIGAO DA DUTRA LTDA -- Posto Petrobras Amigo da Rodovia --
+6569:  Auto Posto 59 - Ipiranga -- Globo Gás --
+6591:  Rede 28 - Serviços Automotivos Régis Ltda. -- Posto 22 --
+6590:  POSTO 19 -- Posto 22 --
+6612:  Petrobras -- Posto Porto Seco de Combustíveis --
+662:  Posto Pernambuco 1 Setta -- Vistoria Detran --
+6642:  Posto Shell - Posto de Combustíveis Helix Ltda. -- Posto Petrobras --
+6644:  Auto Posto Ingleses Ltda -- Posto Ipiranga --
+6657:  Rod. Sen. Teotônio Vilela -- R. Alvorada - Alvorada --
+6672:  Auto Posto Panema -- Posto Shell - AUTO POSTO TUCUMAN LTDA --
+6673:  Auto Posto Panema -- Posto Shell - AUTO POSTO TUCUMAN LTDA --
+6677:  Auto Posto Mococão -- Posto Petrobras --
+6682:  Shalom Gás e Água -- Posto Ipiranga --
+6700:  Posto Ipiranga -- Posto e Lanchonete Xodó do Papai --
+6717:  Auto Posto Barra Limpa -- Auto Posto Modelo Matao --
+6702:  Posto Petrobras -- Centro de Abastecimento Gastron Caxias --
+672:  Posto Shell - Posto Batel -- Posto Petrobras --
+6733:  Posto de gasolina -- Posto Petrobras --
+6743:  A P MAGALHAES E CIA LTDA -- Posto Santa Maria --
+6747:  Posto Ipiranga -- ampm --
+674:  Posto Shell - Comercial Recife Com De Der Petr Lt -- Posto BR do Arruda --
+676:  Pentagás -- BR --
+6767:  Posto Amazônia 15 -- Posto Amazônia 05 --
+6782:  Auto Posto Caetê -- Posto Santa Rita --
+6804:  Posto Ipiranga -- Gás Norte - Nacional Gás --
+6820:  Solgás Comércio de Gás -- Posto Atlanta --
+684:  R. Bela Vista - Nova Santa Cruz -- PE-160, 330 - Oscarzão --
+6860:  Hurango Rango Restaurante e Pousada -- Santo Inácio --
+6874:  Shell -- Posto Volpe --
+6870:  Posto Shell -- Posto Universo --
+6873:  Auto Posto Pororoca -- Taveiropolis Auto Posto --
+6875:  Posto Ipiranga -- Rede Atual --
+6879:  Posto Shell - D'Alcantara -- Posto Boxter --
+6893:  Flex -- Abastecedora de Combustiveis Sa --
+6898:  Auto Posto Santo Antônio -- C. Nogueira & Cia --
+6904:  Crato Petroleo -- Posto Petrobras --
+6901:  R. Alan Kardec, 25 - Stella Maris -- Estr. Caminho do Meio - Stella Maris --
+6909:  Posto Almirante -- Posto Bailer --
+6910:  Postos Galo Centro -- Posto MDestri --
+6916:  Postos Galo Barra da Lagoa -- Sambatur: Viagens - Aventuras - Eco Tours - Passeios de barco - Barra da Lagoa - Florianópolis --
+6915:  Posto Pajet -- Posto Petrobras --
+6921:  Posto Maciel -- Posto Full --
+6934:  Posto Petro Portao -- Posto Shell - Auto Posto Shell --
+6942:  Auto Posto Votu -- Auto Posto Brisas de Votuporanga --
+6947:  Posto Paraibuna ltda me -- Posto Bandeirantes --
+6945:  Auto Posto Conquista -- Posto Cavalo de Aço II --
+6946:  Gran Cumbica Auto Posto -- Shell --
+6970:  Posto Ipiranga -- Jard Oeste Auto Posto --
+6977:  Posto Shell -- Combustiveis Riviera --
+6978:  R. Antero Lopes de Carvalho -- BR-116, 825 - Cidade dos Funcionários --
+6975:  Auto posto universitario -- Copagaz --
+6993:  Piu Piu Auto Center -- Auto Posto Rei do Tatuapé --
+6998:  Termitec Ar Condicionado e Refrigeração -- Posto Iccar --
+6996:  Posto Boxter -- BORRACHARIA"24HS"FIXA/MÓVEL --
+7008:  Posto Ipiranga -- Posto Serviços Grupo Formosa --
+6968:  Posto Petrobras -- Auto Posto Jatinho --
+7017:  Posto Andorinha -- Liane Veículos --
+7020:  Posto de Serviços Automotiveis Comércio -- Posto BR --
+7029:  Posto Vitória Speers - Ipiranga -- Liquigás - Itália Comércio de Gás Ltda. --
+7030:  Auto Posto Rio Araguaia -- Grattao & Grattao-Comércio de Combustíveis --
+7032:  Auto Posto Malassise -- Auto Posto Rio Araguaia --
+7026:  Posto São Pedro -- Posto da Tamarineira --
+704:  Auto Posto Carinhoso -- Shell --
+7055:  Posto Arcanjo -- Auto Posto Arthur Rios --
+7074:  Posto de Serviços Freixedense -- Andréia Gás --
+7062:  Posto Atílio Andreazza - SIM Rede de Postos -- Posto Petrobras --
+7091:  Posto RZD HW -- Posto Atem --
+7093:  Shell -- Posto São Matheus --
+7099:  Posto Ipiranga -- Posto Ipiranga --
+7104:  Posto Xando -- Petroraça Combustíveis --
+7102:  Posto Petrobras -- Auto Posto Maçarico Ltda --
+7108:  Posto Javalli -- Auto Posto Stella Maris --
+7150:  Posto Rodao 4 -- Ponto do Gás --
+7156:  Auto Posto JP -- Br --
+7161:  Posto Centro Choferes -- Posto de Combustível São José --
+7172:  Posto Petrobras -- Ipiranga --
+7181:  Posto Ipiranga -- Shell --
+7193:  Auto Posto Castelinho -- J e J Comércio e Representacoes --
+7196:  Fernando Azevedo Filho -- Auto Posto Ita & Ita Gás --
+7194:  Garagem Nossa Senhora de Fátima LTDA.(BR Petrobras) -- Posto Shell - Rio Nova Parada Src Posto Gas Ltda --
+7204:  WF Jundiaí Comércio Serviços Automotivos -- Posto Petrobras --
+7212:  Posto Ipiranga -- Zuze loja conveniencia coca cola --
+721:  Posto Rio Branco -- Shell --
+718:  Posto Digo's - Bento Munhoz -- Posto Shell - Posto Corcovado Ltda --
+7222:  Posto Xamá -- Posto do Dito --
+7223:  Posto BR - Vila Urupes -- Posto BR - Auto Shop Suzano --
+7226:  Posto de Gasolina -- LIQUIGÁS --
+7231:  Posto Flamboyant -- Posto Ipiranga --
+723:  Posto Ipiranga -- Posto Ipiranga --
+7234:  Posto Ipiranga -- Posto Flamboyant --
+7244:  Auto Posto Gadial -- Posto Ipiranga --
+7249:  Posto Canaã -- Posto HP --
+7227:  Posto Ipiranga Vale Dos Machados -- LIQUIGÁS --
+7256:  Century Auto Posto -- Posto Petrobras --
+7258:  Posto Petrobras -- Posto Shell - SERAUT AUTO POSTO LTDA --
+7268:  Auto Posto Boa Parada -- AUTO POSTO AVENIDA CAPITÃO LTDA EPP --
+7273:  Posto Masut X -- Posto Bandeirantes --
+7282:  RVM - Bartira -- Posto Ipiranga --
+7304:  Dom Pastel - Coco Bambu -- Posto Petrocar 2 | Shell --
+7306:  Auto Posto BR Carolina Florence -- Posto Petrobras --
+7307:  Posto Ipiranga -- Auto Posto BR Carolina Florence --
+7310:  Posto Petrobras -- Auto Posto de Serviços Elite de Madureira LTDA. (Petrobras) --
+7325:  Posto Kátia Locatelli -- Auto Posto Kátia Locatelli --
+7328:  Auto Posto COOPERCARGA SHELL -- Loja Shell Select - POSTO SHELL - POSTO MAR DAS PEDRAS LTDA --
+7331:  Auto Posto Vila Oliveira -- Ultragaz --
+7338:  Auto Posto Pai Heroi -- Auto Posto Campeão --
+7305:  POSTO VILA MARIA -- Posto Shell - Carrefour Posto Tietê --
+7339:  Comercial de Petroleo Mutua 53 -- Posto Petrobras --
+7333:  Auto Posto 27- Posto Ale -- Posto Shell --
+7347:  Auto Posto Dupla Estrela -- Posto Shell - Auto Posto Ajomar Ltda --
+7354:  Posto Petrobras Rebouças -- Auto Posto EMF --
+7350:  Posto Walmart -- Posto Supercenter Bauru --
+7361:  Posto e Garagem Rajá de Cascadura -- Posto BR Petrobras C/ GNV --
+7373:  Posto Texas -- Posto Trevão --
+7368:  Auto Posto City Tatuapé -- Posto Extra - Coelho Lisboa --
+737:  Auto Posto Ipiranga - Belomar -- Posto Ipiranga --
+738:  Atlantis Auto Posto de Serviços Leme -- Posto Santa Rita --
+7386:  Posto Capoani Shell - Bela vista -- Posto SIM Bela Vista --
+7388:  R. Condé Montecristo - Parque Real de Goiânia -- R. L-12 - St. Papillon Park --
+7385:  Posto Terrana -- Posto Primus --
+7391:  Posto de Serviço Malta 03 -- Posto Shell - Auto Posto Melide Ltda --
+7403:  Posto Delta -- Ipiranga --
+742:  Sobral e Palácio Posto Escola Bezerra de Menezes -- Posto Gavião --
+7421:  R. Cel. Benevenuto Gonçalves da Costa, 20 - Mangabeira -- BR-101 --
+7437:  Posto Timbozão Petrobras -- Posto de Gasolina Itavana --
+7439:  Rede de Postos Menor Preço -- Posto de gasolina --
+7449:  Posto Castelo 24 Hrs Jacintinho -- Posto Jacintinho --
+7453:  Automotivo Portal de Itatiba -- Posto Petrobras --
+7456:  Posto Shell -- Mime Behling Jgs --
+744:  Posto Novo | Shell -- Posto Gavião --
+745:  Posto Rio Pinheiro -- Posto Ipiranga --
+7461:  Posto Petrobras - GNV / Cel Veiga -- Posto Regente --
+7042:  Posto Mano Vey -- Posto Bom Jesus --
+7473:  Posto Ipiranga -- Auto Posto Frevo --
+7472:  Auto Posto Rede Souza Esperança -- Ipiranga --
+7478:  Posto Petrobras -- GÁS CRISTOVÃO COLOMBO --
+7475:  Posto Arrastão - Petrobras GNV -- Posto Petrobras --
+7484:  CENTRO AUTOMOTIVO SILVERADO - POSTO AFA -- Rede AFA Conveniência --
+7483:  Santa Rita -- Stop Auto Posto --
+7480:  R. Cruzeiro do Sul, 901 - Gradim -- BR-101 --
+7481:  Posto 100 % -- Posto Aliança --
+747:  Gape -- Colégio Batista de Laranjal --
+7495:  Auto Posto Bosque Dos Jequitibas LT -- Auto Posto São Tomaz --
+7497:  Posto de Combustivel -- Auto Posto Kaiman Ltda --
+7496:  Auto Posto Capelli -- Auto Posto Kaiman --
+7510:  Posto Ipiranga -- Posto Gabriela Gas Station --
+7515:  POSTO 3 REDE RAFA -- Posto do Rafa(Posto 3) --
+7511:  Posto Shell - AUTO POSTO MEDRANO SERV AUTOM LTDA -- Posto Shell --
+7518:  Posto Bonzão -- Posto Ale Posto Interlagos 2 --
+7521:  Posto Petro Prata -- Posto BR Prata Pura --
+752:  Posto Ipiranga -- Posto Ipiranga --
+7525:  Rodoviária de Camaçari -- Posto Petrobras --
+7539:  Posto Ipiranga -- Shell --
+7542:  Auto Posto Opa -- Havan --
+7541:  Posto Shell - AUTO POSTO KIRIBATI LTDA -- Posto Canal Delta --
+7535:  Imperial Angra Auto Posto Ltda -- Posto de Gasolina Sail Fish --
+7545:  Posto L 11 -- Posto Petrobras --
+7544:  Posto RBS Atlântico -- Pinheirão Auto Posto --
+7556:  Posto 5 Estrelas -- Ipiranga --
+7553:  Auto Posto Ipiranga - Avião -- Marlim Azul Comércio De Petróleo e Derivados Ltda. --
+7579:  Posto Petrobras -- Posto de Combustíveis Sete Portas --
+7581:  Posto Petrobras -- Auto Posto Jj --
+7584:  R. do Arvoredo, 90 - Pippi -- R. Gen. Ernesto Dorneles - Pippi --
+7611:  Shell Posto de Gasolina -- Posto Shell - Posto De Gasolina Sao Rafael Ltda --
+7615:  Posto de Gasolina Mãe Greice Ltda. -- Posto Shell - Auto Posto Domingues De Sa Ltda --
+7620:  Shell -- Posto Shell - Posto Mendes Ltda --
+7627:  Posto alvaro da costa melo -- Posto Superior De Bonsucesso --
+7624:  Auto Posto Buriti I -- Auto Posto Buriti III --
+7626:  Posto Shell -- Comercial de Combustiveis Dom Pedro II --
+7638:  Posto Ipiranga -- ampm --
+763:  AUTO POSTO POPULAR 2 -- Posto Petrobras --
+7639:  Posto turbinado -- Posto Shell --
+7650:  Posto Auto Invernada -- Posto das Carpas • BR --
+7645:  Posto Castilho -- Posto Petrobras --
+7655:  Posto São Bento das Hortências - Posto Petrobras -- Auto Posto Retiro Ltda --
+7652:  Posto Petrobras -- Posto Corujão --
+7658:  Posto Ipiranga -- Posto Ipiranga --
+7656:  Auto Posto Retiro Ltda -- Posto São Bento das Hortências - Posto Petrobras --
+7659:  Auto Posto Ipê BR -- Posto Petrobras --
+7668:  IEZZO - Auto Posto Santa Vitória -- Auto Posto Simi --
+7677:  Auto Posto Bremen Aracatuba -- Shell --
+7679:  Auto Posto Kaira Ltda -- AUTO POSTO INTEGRAÇAO --
+769:  Posto de Combustiveis Peteba -- Posto Dal Ri 5 Esquinas - Ipiranga --
+7701:  Auto Posto Simus -- Posto Ipiranga --
+7710:  Shell -- Posto João Durval --
+7722:  Alenusil -- Centro Automotivo Tulipa --
+772:  Auto Posto Flôr de Calmon -- Posto Ipiranga --
+7732:  Posto Ipiranga -- Auto Posto Juli Ltda --
+7750:  Posto Copercana -- BURITI CONVENIENCIA E BEBIDAS --
+7755:  Shell -- Servacar Comércio Serviços e Representacoes --
+7757:  Posto Petrobras -- Posto Petrobras --
+776:  Auto Posto Karakas -- Revendedor Autorizado Fogás --
+7768:  Posto Shell - MJR COMERCIO DE COMBUSTIVEIS LTDA -- Posto Ipiranga --
+7771:  Sete Estrelas -- Alenusil --
+7783:  Posto Pão de Açúcar Taubaté -- Posto Shell - Comp Brasileira De Distribuicao --
+7789:  Posto Ipiranga -- ampm --
+7781:  Centro Automotivo Portal das Perdizes -- Posto Ipiranga --
+7802:  Posto Catalao -- Posto Aguiar --
+7800:  Posto Ipiranga -- Gilberto Inacio de Araújo --
+7806:  Lmr Comércio de Combustiveis -- Posto Ipiranga --
+7819:  Auto Posto Viaduto -- Cia Ultragaz --
+7820:  Posto Ipiranga -- AUTO POSTO RONDON JUSSARA --
+781:  Av. Brasil Norte, 1321 - Cidade Jardim -- R. H, 7 - Cidade Jardim --
+7826:  Posto Novo Mundo -- Posto Petrobras --
+7831:  Posto Ipiranga -- Posto Vitória --
+7836:  Posto do Dito -- Posto Monte Carlo --
+7840:  Posto Shell - Bella Luna Centro Autom Ltda -- Bella Luna Centro Automotivo --
+7842:  Posto Bom Sucesso -- Posto Águia --
+7874:  Posto Petrocal Boa Viagem -- Posto Shell --
+7868:  Posto Real Sete -- Posto Tucunaré --
+7875:  Posto Shell -- Posto Petrobras --
+7876:  Setta Postos de Combustível -- Posto Shell --
+7870:  Posto Petrobras -- Roger Gás --
+7883:  Posto Pier 21 -- Auto Posto Cidade Nova --
+788:  Posto Shell -- Posto Maba --
+7888:  Posto Shell - Vm Rodrigues Combustiveis Ltda -- Roney Peyres de Brito --
+7899:  Posto Dalmatas Ltda -- ampm --
+7885:  Posto Ipiranga -- Auto Posto Jardins --
+7905:  Posto Ipiranga - Jardim Sulacap -- Posto Catonho --
+790:  Posto Shell - Auto Posto Lg - Shell -- Posto Brasil 2000 --
+7916:  Posto Shell - B & B Com Ltda -- Posto Jaguar --
+7918:  Posto Shell - Posto E Servicos Rio Azul Ltda -- REDE LK DE POSTOS LTDA --
+7914:  Faveral Auto Posto -- Auto Posto e Temakeria Faveral --
+7945:  Posto Shell - B O Auto Posto Ltda -- Posto Maxxi --
+7958:  Nosso Posto Comércio e Representação -- Posto Dislub - Nosso Posto --
+7970:  Posto Nações -- Ultragaz Salto --
+7974:  POSTO ALDO -- Auto Posto da Pedra Ltda --
+7985:  Petroalcool Comércio de Derivados Petroleo -- Posto Moreninha Locatelli Ltda --
+7992:  Posto Ipiranga -- Comércio Varejista de Combustiveis Bassani --
+7998:  Auto Posto Souza II -- Posto gigi --
+8009:  Posto Iezzo -- Bililica Comércio de Gás --
+8034:  Posto Rizzotto R3 -- Posto Rizzotto Matriz --
+8029:  Posto A5 Jomari -- Posto Ipiranga Everest --
+8036:  Auto Posto Transcap -- Posto Paranaguá --
+8044:  Auto Posto Cento e Cinquenta -- Posto Boxter --
+8049:  Posto Petrobras -- Posto Pirâmide --
+8050:  Posto Central -- Posto Fama (Rede Riva) --
+8056:  Postos Rodeio Filial 4 -- Postos Rodeio --
+8060:  Jóia Posto - 24 Horas -- Posto Shell - JOIA COMBUSTIVEIS LTDA --
+8071:  Posto Petropark -- Petropark Comércio de Combustíveis --
+8067:  Posto Boxter -- Loja Shell Select - POSTO SHELL - POSTO DE SERV FERNAO DIAS LTDA --
+8072:  Posto Marcílio Dias -- Ipiranga --
+8074:  Posto Shell - Auto Posto Carrossel Ltda. -- Posto Ale --
+8077:  R. Gen. Osório - Centro -- Largo Gaspar São Martins - Centro --
+8092:  Rede J Amaral -- Auto Posto Bruno & Bruna --
+809:  Revendedor Autorizado Fogás -- Auto Posto --
+8100:  Posto Shell - Rizzotto E Cia Ltda -- Posto Rizzotto Matriz --
+8110:  Posto Shell - Premium Com De Comb Ltda -- POSTO SOBERANO --
+8124:  Posto Rizzotto Matriz -- Posto Petrobras --
+813:  Posto Shell AUTO POSTO INAJA LTDA -- Loja Shell Select - POSTO SHELL - AUTO POSTO INAJA LTDA --
+8147:  Posto Guarani -- Posto Alabama --
+8159:  ITK Auto Posto LTDA -- Posto Ipiranga --
+8154:  Posto Ipiranga -- Auto Posto Champion --
+8156:  Posto Petrobras -- Auto Posto Casulo --
+8163:  Posto Sonei Ltda -- Posto Petrobras --
+8166:  Posto Ipiranga -- Posto Júlio Farias --
+8178:  Auto Posto Limac -- Jardim São Bento Auto Posto --
+817:  Posto 3 Avenidas -- Shell --
+8184:  Posto Miranda -- Empreendimentos Miranda & Neves --
+8186:  Nosso Posto - Shell -- Posto Cidade Criciúma --
+8192:  Posto Petrobras -- Posto Magalhães Ltda - Petrobras --
+8189:  R. Henrique Cordenonsi - Vila Cordenonsi -- Av. Henrique Roberto G. A. Brechmacher, 999 - Vila Bertini --
+8190:  Comercial Super de Derivados de Petroleo -- Produforte --
+8203:  Posto Viola -- Posto CID - Petrobrás --
+8206:  Posto Champagnat -- Posto Ipiranga --
+819:  Posto Luar de Bangu -- Posto Fabiana Oeste BR Petrobras --
+820:  Auto Posto De Castro -- Posto Ipiranga --
+8240:  Posto Shell -- Auto Posto Santo Antônio --
+8241:  Auto Posto JC J Chikowski -- Posto Shell --
+8258:  Posto Divinopolis -- JURDI & GUIMARAES LTDA --
+8266:  Posto Petrobras -- Posto Canal Delta --
+8274:  Posto Petrobras -- Auto Posto Cidade Náutica --
+8277:  Posto Fernandes Petrobras -- Posto Shell - Abastecedora De Comb Ibiza Ltda --
+8283:  Posto São Luiz III - Shell -- LUIZ FLOR E FILHOS LTDA --
+8285:  R. Jaime Cunha, 80 - Jardim Passargada I -- Rodovia Raposo Tavares, 25 - Vila Santo Antonio de Carapicuiba --
+8286:  Posto Royal Fic -- Royal FIC - Posto de Combustível --
+8288:  Posto Shell - Posto De Gasolina Sol Da Praia Ltda -- Posto de Buggy --
+8297:  Petrobras -- Posto Petrobras --
+82:  Auto Posto Distrito -- Posto JR Franca --
+829:  Auto Posto Evolução -- Posto Petrobras --
+8294:  Posto Petrobras -- Posto Petrobras --
+8306:  Br -- Posto ALE --
+8327:  Posto Octane -- Posto Simomara --
+8336:  Posto Petrobras -- Comércio de Combustíveis Simomara --
+8335:  Ale -- Alves & Costa Comércio de Combustiveis --
+8344:  Auto Posto 7 Mares -- Auto Posto Cidade --
+8345:  Auto Posto Faga -- Posto Petrobras --
+8349:  Posto Canal -- Shell --
+8356:  Posto Petrobras -- Ponto do Gás - Gás 24 horas em Curitiba --
+8357:  Auto Posto Boa Vista -- Posto Ipiranga --
+8364:  Auto Posto Cidade Alta -- Botucatu Auto Posto + --
+8368:  Posto Shell - Centro Automotivo Selene Ltda -- Petrobras --
+8377:  Auto Posto Samambaia Valinhos -- Posto Petrobras --
+8372:  Auto Posto Nacional de Santos -- Petrobras --
+8387:  Posto Itamaraty -- Posto Cachoeira II --
+8384:  Posto Petrobras -- Centro Automotivo Royale --
+8395:  Posto Unigás -- Nobrega Combustiveis Ltda --
+839:  Posto Shell - Via Expressa Auto Posto Ltda -- Posto De Gasolina Nova Jerusalém --
+8402:  Auto Posto JJ -- Agricopel --
+8403:  Posto Mime - Filial 7 -- Agricopel --
+8409:  Posto Ipiranga -- Auto Posto Manacar --
+8404:  Posto Petrobras -- Posto da Fonte --
+8412:  Posto Spengler - Bom Fim -- Posto Petrobras --
+8411:  Posto Itanhangá -- Dias & Dias --
+841:  Loja Shell Select - POSTO SHELL - AUTO POSTO GASOL.PORTELA DOIS LTDA. -- AUTO POSTO GASOL.PORTELA DOIS LTDA. --
+8427:  Posto Ipiranga -- Posto Ipiranga --
+8431:  Posto Petrobras -- Posto de Serviços Joinville --
+8474:  posto avenida -- Pit Stop Dourado --
+8470:  Auto Posto Águia Atibaia -- Posto Shell --
+8481:  Posto Ipiranga -- ampm --
+8489:  Posto São Tomé - Centro -- Posto São Cristóvão --
+8493:  Auto Posto Lora -- Jet Oil - Rua Jose Do Patrocinio 749 --
+8494:  Posto Itaipú -- Transurb S/A --
+8501:  Posto Shell - Auto Posto Imperador Ltda -- Posto Ipiranga --
+8491:  Posto de Combustíveis Buda I -- Posto de Combustíveis Buda --
+8502:  Equipe I Auto Posto -- Posto Petrobras --
+8490:  Posto de Combustíveis Buda IV -- Posto de Combustíveis Buda I --
+8506:  Posto Modelo II -- POSTO MODELO II --
+8520:  Rede Super Petro -- Posto Petrobras --
+8522:  Posto Brasil -- Rede Prudentão --
+8509:  Auto Posto São João Assis -- Br --
+852:  Posto Brasil Grande -- Posto Escola Senac --
+8530:  Shell -- Globogás Ultragaz --
+8534:  BR Petrobras -- Posto Raul Veiga --
+8535:  Canaan Posto e Serv Ltda -- Posto Castelo --
+8543:  Posto Ipiranga -- Comercial Buffon Combustíveis e Transportes Ltda --
+8547:  Posto dos Santos Reis -- Posto Shell - Auto Posto Lacasema Ltda --
+8524:  Auto Posto Neto - Petrobrás -- São Lucas Gás e Água --
+856:  Posto Fim da Picada -- Posto Ipiranga --
+8572:  Auto Posto Chiminazzo -- Comgás --
+8583:  Posto Sabrina -- Posto Petrobras --
+8586:  Shell -- POSTO IPIRANGA CUGULA --
+8585:  Posto e Garagem Trás os Montes -- POSTO IPIRANGA CUGULA --
+8584:  Auto Posto Shell - Camilópolis -- Auto Posto Shell Automan --
+8591:  Posto Santos Dumont -- Auto Posto W & F --
+8594:  Posto Alana -- Ramos Silva --
+8604:  Av. Lomanto Júnior, 1069 - Vaquejada -- BR-116 --
+8623:  Auto Posto Loureiro -- Posto Ipiranga --
+8625:  Posto Polo Cuesta -- Anna Hotel --
+8631:  Auto Posto Fênix -- Centro de Conv. e Posto de Combustivel Paraty --
+8626:  Posto Lav Lub -- Rua Luís Mariani, 46 --
+8630:  Centro de Conv. e Posto de Combustivel Paraty -- Auto Posto Fênix --
+863:  Posto Ipiranga -- Auto Posto Flôr de Calmon --
+8636:  Av. Maceió - Adrianópolis -- R. São Luíz - Adrianópolis --
+8637:  Bagio Auto Posto -- Posto Irmãos Tozzi --
+8649:  Auto Posto Campina -- Rede Vpr de Combustíveis e Serviços --
+8640:  Auto Posto Boqueirão -- Supergasbras-Distribuidora Maestro Gás - Boqueirão, Curitiba --
+8664:  Liber Postos | Posto Ipiranga -- Posto Paraense - P2 --
+8667:  Posto Nogueira -- Auto Posto Jatobá --
+8668:  Posto Ipiranga -- ampm --
+8671:  Auto Posto Agf -- Agricopel Comércio de Derivados de Petróleo Ltda --
+8670:  Posto Mime -- Auto Posto Agf --
+8683:  Posto MM -- I Gazola Combustíveis --
+8690:  Posto Petrobras -- Ecoposto Jardins --
+8684:  Auto Posto Fialla -- Auto Posto Fialla --
+8687:  Posto Ipiranga -- Auto Posto Estrela Dourada --
+869:  Posto Independência -- Posto Independência Ltda --
+8705:  Posto Monza Loja Da Claro Tv -- Analu Gás e Água --
+8710:  Auto Posto Pérola de Salto -- Posto Marechal --
+871:  Posto Araponga -- Posto Alaska --
+8717:  Posto Shell - Wms Supermercados Do Brasil Ltda -- Posto Ipiranga --
+8735:  Auto Posto Nova Curitiba -- Posto Shell - PASSIONE COMERC DE COMBUSTIVEIS LTD --
+8739:  R. Mal. Rondon - José Maria Dourado -- BR-423 --
+8751:  Auto Posto Manssell -- Super do Parque Posto --
+8757:  Organizacoes Gualberto -- Posto Joca - Petrobras --
+8768:  Posto Ipiranga -- Posto Ipiranga --
+8766:  Siquelero & Siquelero Auto Posto -- Pebru Transportes Rodoviários --
+877:  Auto Posto Brasília Araçatuba Ltda -- Posto Rotatória --
+8778:  Posto Viradouro -- Auto Posto de Trabalho Santa Rosa Ltda --
+8782:  Auto Posto Olinda -- Posto Shell --
+8792:  Auto Posto Martinico -- Posto Petrobras --
+8799:  Posto Ipiranga -- Posto Matteo - SIM Rede de Postos --
+879:  Auto Posto Manhattan -- Hotel Nova York --
+8811:  Rw Posto -- Postos BR --
+8815:  Posto Ipiranga -- ampm --
+8825:  R. Miguel Loreto Sobrinho, 28 - Universitário -- BR-153 --
+8840:  Posto Bizunga -- Auto Posto Helsid --
+8860:  Posto Monte Castelo Ltda -- Posto Petrobras --
+8864:  Posto Ipiranga -- Shell --
+8868:  Posto Shell - Radja Com Comb Conveniencia Ltda -- Posto Pelanda Maestro --
+8869:  Jet Oil - Jardim Carioca -- Posto de Buggy --
+8861:  PG Auto Posto -- Posto Ipiranga --
+8874:  ENTRE AMIGOS AUTO POSTO -- Posto Petrobras - Auto Posto Bertioga --
+8872:  Posto Ipiranga -- Posto Shell - A P Companheiro Sao Bento Ltda --
+8843:  J. A. Silva Mercadinho -- Auto Posto LG --
+8879:  R. Nestor Leal, 49 - Sabaúna -- Estr. Gentil Peres --
+8876:  Posto Ipiranga -- Posto Rede Serve GNV --
+888:  POSTO AVENIDA BRASILIA LTDA -- Posto Ipiranga --
+8885:  Posto Copercana -- Auto Posto Primavera do Monte Alto --
+889:  Auto Posto Vila Fátima -- Posto Shell - Posto Algodoal Piracicaba --
+8906:  Posto Prata -- Loja Shell Select - POSTO SHELL - TORRE FORTE LOJA DE CONV. LTDA --
+8904:  Posto Unaí -- Posto Capim Branco - Ipiranga --
+8917:  Posto Petrobras -- Posto cacique --
+8909:  Auto Posto Nova Jerusalém -- Piu Piu Auto Center --
+8919:  Posto Veni -- Posto Petrobras --
+8920:  Posto Mediterrâneo Catanduvense -- Posto Veni --
+8914:  Auto Posto Vila Barros -- Auto Serviços Chuchu Beleza --
+8923:  Posto Ipiranga -- ampm --
+8940:  Posto Ximenes - Shell -- Posto Esperança --
+8941:  Posto Marcos Moreira -- Vm Revendedora de Petroleo --
+8946:  Posto São Vicente -- Auto Posto Piriquito --
+8952:  Posto Túnel -- Posto Vitória --
+8951:  Shell -- Posto Chaminé --
+8974:  Nikigas Comercial ltda -- Posto Ipiranga --
+8971:  COMLUC COM DE LUBRIF E COMBUSTIVEIS -- Posto Petrobrás --
+8985:  Auto Posto Camélias -- BR --
+8988:  Posto Gasolina Agripino -- Posto São Cristóvão - Ipiranga - José Martins --
+8986:  Shell -- Posto Jardim América de Bauru --
+898:  Auto Posto Cem Milhas -- Posto Companheiro --
+8998:  Posto Da Paz -- Posto Petrobras --
+8995:  Posto Novo Nordeste (Petrobras) -- Auto Posto Madrid --
+9005:  Auto Posto Leão de Cascadura -- Posto de Gasolina Leão de Cascadura --
+9017:  Posto Bandeirantes II -- Posto Bandeirantes --
+9003:  Auto Posto Tio Jordão -- Posto Futurama --
+9016:  Postos Alpa 6 -- Auto Posto Patense --
+9018:  Posto de Combustível Ludo -- Posto Bandeirantes --
+9019:  Posto Shell - Tlp Com De Comb Ltda -- Posto Bandeirantes --
+9032:  Shell -- Habib's --
+9004:  Posto Ipiranga -- Auto Posto Tio Jordão --
+9034:  Posto Maratoni -- Posto Maratoni --
+9039:  Auto Posto Pasil -- Posto Petrobras --
+9042:  Posto Ale Marquinho Capoeiras -- Auto Posto Cordeiro LTDA --
+9036:  Iguatemi São Carlos -- Posto Gasolina Extra --
+9048:  Posto Tropical -- Posto Tropical --
+9052:  Posto Satyro Francischinelli -- Posto São Luiz de Itu --
+9055:  Posto Milênio -- AUTO PECAS ABREU TEIXEIRA LTDA --
+9069:  Posto Ipiranga -- Auto Posto Treviso --
+9070:  Posto Petrobras -- Posto Neoville Ltda. --
+9072:  Posto Ipiranga -- SUPER POSTO ESTRELA LTDA --
+9074:  Posto Mônaco Vila Abranches -- Auto Posto Quinhone e Yamaki Ltda --
+9080:  Posto Petrobras -- Posto Petrobras --
+9082:  Posto Quatro Rodas Ltda -- Posto Shell - J P Comercio Varejista De Comb Ltda --
+9078:  Auto Posto 2000 -- Posto Radar --
+9086:  Sobral e Palácio Posto Dom Manoel -- Posto Petrobras --
+9084:  Posto Ipiranga -- Grava Comércio de Combustiveis --
+908:  M & M Serviços Automotivos -- Auto Posto Anhembi --
+9107:  R. Padre João Batista Réus - Caminho Novo -- BR-101 --
+9112:  Posto Janjão - Matriz -- Posto Rio Branco --
+9114:  Auto Posto Venturosa -- Shell --
+9122:  Posto Shell - POSTO DE ABAST A GAS PERFEITO LTDA -- Posto Petrobras --
+9127:  Posto Ipiranga -- Posto Treze de Maio --
+9128:  Posto Prime -- Auto Posto Estação --
+9139:  Rede Lk Postos -- Rigo Gás Bela Vista --
+9144:  Queop S Auto Posto Limitada -- Central Park ABC Auto Posto --
+9155:  Posto Alphavile -- Posto Lagoa --
+9163:  Box Ecologico -- Ipiranga --
+9164:  Posto Ipiranga -- ampm --
+916:  Auto Posto Itamarati Liberty -- Posto e Conveniência Universitário --
+9173:  Posto Pica Pau -- Rede de Postos Pica Pau 3 --
+9174:  Posto Santa Ana -- Posto Ipiranga --
+9192:  Posto Mantra Barigui -- Posto Shell - Lt Nichele Comercio De Combustiveis --
+9208:  Auto Posto Márcio - Posto Recantos Naturais -- Ultragaz --
+9217:  Congonhas Auto Posto -- Posto Três Grandi --
+9218:  Posto Três Grandi -- Congonhas Auto Posto --
+9225:  Posto Bandeira - XV de Novembro -- Posto Altos da XV --
+9224:  R. Quintino Bocaiúva - Vila Santa Terezinha -- Av. Pedro Ludovico, 1751 - Parque das Nações --
+921:  Posto Shell - Duck Posto Gaso.Pecas E Acess.Ltda -- Posto Peralta's - Ipiranga --
+9233:  Posto Ipiranga - Posto Rede Nota 10 -- Ipiranga --
+922:  Posto Peralta's - Ipiranga -- Ampm --
+9235:  Posto Palmeira -- Auto Posto Pio Monte --
+9234:  RJ Combustíveis -- Posto Petrópolis --
+9226:  Auto Posto Araçatuba -- Tolari & Baraldi Comércio de Combustíveis --
+924:  Auto Posto da Cidade -- Posto Espigão - Uberlândia --
+9257:  Shell -- Posto Ipiranga - São Vicente de Paula --
+925:  Posto Astral -- Posto Petrobras --
+9271:  Posto São Leopoldo -- Posto Santo Antônio --
+9272:  Posto Janjão - Matriz -- COMERCIAL MIGUEIS DERIV PETRO LTDA --
+9289:  Posto AEL São José -- Posto Petrobras --
+92:  Sobral & Palacio Matriz -- Posto Canadá | Shell --
+9322:  Auto Posto Praça Portugal -- Posto Petrobras --
+9326:  Posto Shell - TRAMONTIN E GARCIA LTDA -- Auto Posto Mileniun --
+9330:  Posto Shell - Auto Posto Alameda Matao Ltda -- Auto Posto Alameda I --
+9337:  Auto Posto São Raimundo - Shell -- Shell --
+9347:  Posto Casa Grande -- Posto Novo Tempo Comércio de Combustíveis --
+9351:  Posto Shell - Maranesi & Cia Ltda -- Auto Posto Taioca - Shell --
+9342:  Posto Ipanema -- Shell --
+935:  Av. Buriti, 1569 - Distrito Industrial -- R. Waldomiro Lustoza --
+9361:  Posto Ipiranga -- Posto Ipiranga --
+9378:  Auto Posto Gol -- One conveniencia e Tabacaria --
+9375:  Posto Ipiranga -- Posto Ipiranga --
+9376:  ALE -- Posto Mamoré --
+9379:  Auto Posto Pinheiro do Caiçara -- Posto Atlântico - BR --
+9384:  Posto Shell - Juvenal Angelo E Cia Ltda -- JUVENAL ANGELO E CIA LTDA --
+9396:  Posto Drumac -- Posto Santos Dumont --
+9364:  Posto BR - Santa Amélia -- Posto Petrobras --
+939:  Auto Posto Jr Comércio e Serviços -- Auto Posto Jr --
+9401:  Auto Rio Novo Ltda -- Posto Petrobras --
+93:  Hot n' Tender -- Auto Posto Xurunga - Shel --
+9412:  LV COMERCIO DE COMBUSTIVEIS -- Posto Serrano --
+9418:  Posto Estação -- Je Com. de Combustiveis --
+9415:  Auto Posto Kikuda -- Kikuda & Kikuda --
+942:  Posto América -- Posto Ipiranga --
+9447:  Barça Auto Posto -- Posto Shell - ABASTECEDORA CAVALLERI LTDA --
+9451:  Posto Petrobras -- Ale --
+9439:  Auto Posto Duzentos E Um Comercio De Combustiveis -- Posto de Gasolina Meia Noite --
+9462:  Posto Ipiranga -- Auto Posto Ipiranga - Belomar --
+9475:  Posto Santa Rita Pirassununga -- Auto Posto Piraveni --
+9472:  Shell -- Posto Shell - Auto Posto Rio Do Ouro Ltda --
+9473:  BR AP City Aricanduva -- Posto Petrobras --
+9458:  Posto Ipiranga -- Posto Petrobras --
+9488:  Posto Jomafa -- Posto Topázio --
+948:  Posto Nossa Senhora de Fatima I -- Posto São Bento, Abastecimento Singeperon --
+9502:  Posto BR Bela Vista -- Auto Posto Ajax --
+9513:  Posto São Domingos -- Posto Auto 7 --
+9521:  Posto Badu -- Pacheco Gás --
+9519:  Posto Auto 7 -- Posto São Domingos --
+9528:  Posto Ipiranga -- Posto Tex Kar --
+952:  Posto Ipiranga -- Yonamine & Cia --
+9534:  Jsm Combustiveis -- Posto Petrobras Pontal --
+9540:  Posto Petromoc -- Posto Petrobras --
+9550:  Posto BV9 -- Posto BV 2 --
+9560:  Posto Amigão -- Posto Ipiranga --
+9577:  Posto Brasil -- Comercial de Combustiveis Fns --
+9585:  Posto Ipiranga -- Shell --
+9586:  Shell -- Posto Ipiranga --
+9593:  Auto Posto Manchester -- Posto de serviços Natália LTDA --
+9594:  Posto de serviços Natália LTDA -- Auto Posto Manchester --
+9598:  Auto Posto Pegaso - ALE -- Troca de Óleo J&J --
+9595:  R. Tamotsu Iwasse, 1449 - Vila Nova Bonsucesso -- Rod. Pres. Dutra --
+9602:  Posto Petrobras -- Posto Petrobras --
+95:  Posto Petrofran -- Posto Petrofran --
+9604:  Posto Petrobras -- Auto Posto Cruzeiro --
+9592:  Posto Ipiranga -- Loja Shell Select - POSTO SHELL - PHENIX COM VAREJISTA DE COMB LTDA --
+959:  Posto de gasolina -- Posto SHELL Portal do Sertão +GNV + --
+9611:  Posto Ipiranga -- Posto SIM - Praça Italia --
+9615:  Posto Guapo -- Posto Delta --
+9614:  Posto Delta -- Posto Guapo --
+9616:  Posto de Combustiveis El Shadai -- Auto posto Mosele 3 RodOil --
+9621:  Postos Bravoa -- Posto Puel --
+9634:  Itaim Fuel Auto Posto -- Ale --
+9646:  Posto Economia - Santo Agostinho -- AUTO POSTO BARATEIRO --
+9643:  Posto Bubi -- Loja Shell Select - POSTO SHELL - POSTO DE SERV PAULO MOREIRA LTDA --
+9657:  Posto Marcello -- Posto Petrobras --
+9653:  TOP FUEL -- Posto Ipiranga --
+9660:  Comércio Lubrificantes Valesso -- Auto Posto Valinhos --
+9665:  Posto da Treze -- Posto Petrobras --
+9679:  Ale - Posto Via Azul -- Shell --
+9677:  Posto de Serviços Renato Tonoli -- Rt - Comércio de Combustiveis --
+9694:  Auto Posto Luar de Olaria -- Posto de Gasolina e Garagem Estoril de Olaria --
+9699:  Gloria Auto Posto -- Auto Posto Borges --
+9692:  Posto ipiranga -- Shell --
+9710:  Posto Conquista -- T. M. Comércio de Combustiveis e Derivados --
+9690:  Posto Ipiranga MIguel Badra -- Marluce Neto Auto Posto --
+9715:  Auto Posto São Francisco -- Posto Ipiranga --
+9707:  Microposto Cohab Três -- Posto Shell - J E Petroleo Ltda --
+9724:  Auto Posto Chu II -- Posto Petrobras --
+9725:  Shell -- Posto Pelikano --
+9708:  Fernandes & Gomes Combustiveis -- Posto Petrobras --
+9728:  Carrefour Posto Suzano -- Sodimac Dicico - Suzano --
+9730:  Ecoposto Jardins -- EcoPosto Jumentinho --
+9731:  EcoPosto Jumentinho -- Ecoposto Jardins --
+9764:  Posto Ipiranga -- Posto Cabernet --
+9768:  Santos Petrol Comércio de Combustiveis -- Auto Posto Valongo --
+9769:  Posto Assaí Santo André ( Ipiranga ) -- Posto Shell - CIA BRASILEIRA DE DISTRIBUICAO --
+9777:  Posto Shell - Dx Comercio De Combs E Deriv Ltda -- Solmar Super - Granja Portugal - Supermercado e Distribuidora de Alimentos --
+9774:  Posto Petrobras - King Kong -- Ipiranga --
+9791:  Posto Panelinha -- Auto Posto Ana Terra --
+979:  Posto Guanabara de Tres Lagoas -- Auto Posto Px - TAURUS --
+9799:  Posto BSB Bancários -- Posto Cidade Petrobras --
+9805:  Auto Posto São Domingo -- Posto São Domingos --
+9809:  Auto Posto Solo Sagrado -- Posto Auto 7 --
+9814:  POSTO BOX STAWS -- Staws Com de Combustível Ltda --
+9816:  Posto Yokohama -- Auto Posto Shiraishi V --
+9835:  AM Comercial -- Posto Petrobras --
+9855:  Posto Shell -- Posto Shell - Leal & Costa Ltda --
+9863:  Posto Petrobras -- Colégio Dr Edson Ribeiro --
+9877:  Posto Shell - Juaco Petroleo Ltda -- Posto shell crato --
+9873:  Posto Petro Super -- Posto Ipiranga --
+9882:  Posto UBN Cidade Nova -- Ted GAS --
+9889:  Auto Posto Riga -- Posto Papai Anchieta --
+9891:  Shell -- Auto Posto Riga --
+9888:  Posto Ipiranga -- Posto Papai Anchieta --
+9904:  Gran Via Conveniência e Auto Posto -- Posto Ipiranga --
+9892:  Posto Shell - Carrefour Comercio E Industria Ltda -- Carrefour Posto Anchieta --
+9905:  R. Aguapeí, 2399 - Jardim do Prado -- R. Aguapeí, 2656 - Vila Nova --
+9920:  Auto Posto Dila -- A G Pinho Cia --
+993:  Posto Ipiranga -- Cdm Arcom salvador --
+1158:  Comercial Cascata Petróleo -- Posto Ipiranga --
+994:  Prima - Com. de Combustíveis e Serviço de Tec. e Cons. -- Posto Petrobras --
+1215:  Posto Petrobras -- Posto BR --
+1432:  Posto Petrobras -- Auto Posto Novo Mundo --
