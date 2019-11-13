@@ -10,6 +10,7 @@ define(Posto, (faker: typeof Faker, settings: { usuarioPadrao: boolean }) => {
     posto.endereco = faker.address.streetAddress();
     posto.cidade = faker.address.city();
     posto.bairro = faker.address.citySuffix();
+    posto.bandeira = faker.address.streetSuffix();
 
     return posto;
 });

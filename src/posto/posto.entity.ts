@@ -1,4 +1,4 @@
-import { Combustivel } from '../combustivel/combustivel.entity';
+import { Combustivel } from './../combustivel/combustivel.entity';
 import { Entity, PrimaryGeneratedColumn, Column, OneToMany, Index } from 'typeorm';
 import { ApiModelProperty } from '@nestjs/swagger';
 import { Geography } from 'geojson';
@@ -34,8 +34,15 @@ export class Posto {
     cidade: string;
 
     @OneToMany(type => Combustivel, combustivel => combustivel.posto)
-    @ApiModelProperty()
+    @ApiModelProperty({ type: Combustivel, isArray: true })
     combustiveis: Combustivel[];
+
+    @Column({ nullable: true })
+    @ApiModelProperty()
+    googlePlaceId: string;
+
+    @Column({ nullable: true })
+    googleRating: string;
 
     @Column({ default: 'Branca', nullable: true })
     @ApiModelProperty()
