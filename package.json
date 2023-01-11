@@ -36,7 +36,7 @@
     "@nestjsx/crud-typeorm": "^4.2.0",
     "bcrypt": "^2.0.1",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.10.1",
+    "class-validator": "^0.14.0",
     "dotenv": "^8.2.0",
     "faker": "^4.1.0",
     "generate-password": "^1.4.2",
